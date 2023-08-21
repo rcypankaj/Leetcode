@@ -1,15 +1,12 @@
 class Solution {
     public boolean isHappy(int n) {
-        HashSet<Integer> set = new HashSet<>();
-        while (n != 1) {
-            n = sum(n);
-            if (set.contains(n)) {
-                return false;
-            }
-            set.add(n);
-            System.out.println(n);
-        }
-        return true;
+        int slow = n, fast = n;
+        do {
+            slow = sum(slow);
+            fast = sum(fast);
+            fast = sum(fast);
+        } while (slow != fast);
+        return slow == 1;
     }
     public int sum (int num) {
         int sum = 0;
