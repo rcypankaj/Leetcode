@@ -1,11 +1,13 @@
 class Solution {
     public boolean isPerfectSquare(int num) {
-        for (int i = 1; i*i <= num; i++) {
-            if (i * i == num) return true;
+        int i = 1;
+        while (i * i < num) {
             if (i == 46341) {
                 break;
             }
+            i++;
         }
-        return false;
+        return i * i == num;
+       
     }
 }
