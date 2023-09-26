@@ -13,14 +13,6 @@ class Solution {
             right[i] = max;
         }
 
-        // for (int i = 0; i < height.length; i++) {
-        //     System.out.print(left[i]+" ");
-        // }
-        // for (int i = 0; i < height.length; i++) {
-        //     System.out.print(right[i]+" ");
-        // }
-        // System.out.println(left.toString());
-
         int count = 0;
         for (int i = 0; i < height.length; i++) {
             count += Math.min(left[i], right[i]) - height[i];
