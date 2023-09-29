@@ -1,21 +1,19 @@
 class Solution {
     public int thirdMax(int[] nums) {
-        int max = Integer.MIN_VALUE;
-        for (int i = 0; i < nums.length; i++) {
-            max = Math.max(nums[i], max);
-        }
-        Set<Integer> set = new HashSet<>();
-        Arrays.sort(nums);
-        int count = 3;
-        for (int i = nums.length-1; i >= 0; i--) {
-            if (count > 0 && !set.contains(nums[i])) {
-                count--;
-                if (count == 0) {
-                    return nums[i];
-                }
-                set.add(nums[i]);
+        Integer max1 = null, max2 = null, max3 = null;
+        for (Integer num : nums) {
+            if (num.equals(max1) || num.equals(max2) || num.equals(max3)) continue;
+            if (max1 == null || max1 < num) {
+                max3 = max2;
+                max2 = max1;
+                max1 = num;
+            } else if (max2 == null || max2 < num) {
+                max3 = max2;
+                max2 = num;
+            } else if (max3 == null || max3 < num){
+                max3 = num;
             }
         }
-        return max;
+        return max3 == null ? max1 : max3;
     }
 }
