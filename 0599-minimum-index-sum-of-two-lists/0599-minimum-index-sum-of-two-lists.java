@@ -10,7 +10,6 @@ class Solution {
         int index = findMinIndex(list1, indexList2Map);
         List<String> list = getResult(list1, indexList2Map, index);
         String[] strArr = list.toArray(new String[list.size()]);
-        // System.out.println(list);
         return strArr;
     }
     public int findMinIndex(String[] list1, HashMap<String, Integer> list2) {
