@@ -7,11 +7,11 @@ class Solution {
         return res;
     }
     public int countOnes(int num) {
-         int cnt = 0;
-        while(num > 0){
-            cnt++;
-            num &= (num-1);
+        int count = 0;
+        while (num > 0) {
+            if ((num&1) == 1) count++;
+            num >>= 1;
         }
-        return cnt;
+        return count;
     }
 }
