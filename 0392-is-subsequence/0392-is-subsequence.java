@@ -7,7 +7,6 @@ class Solution {
                 j++;
             } 
             i++;
-            // char currCharT = t.charAt(i);
         }
         return j == s.length();
     }
