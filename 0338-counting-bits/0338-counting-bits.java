@@ -1,17 +1,17 @@
 class Solution {
     public int[] countBits(int n) {
-        int res[] = new int[n+1];
-        for(int num = 0; num <= n; num++){
-            res[num] = (bitCnt(num));
+        int[] res = new int[n+1];
+        for (int i = 0; i < n+1; i++) {
+            res[i] = countOnes(i);
         }
         return res;
     }
-    private int bitCnt(int num){
+    public int countOnes(int num) {
          int cnt = 0;
         while(num > 0){
             cnt++;
             num &= (num-1);
         }
         return cnt;
-    }    
+    }
 }
