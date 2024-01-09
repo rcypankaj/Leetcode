@@ -1,6 +1,7 @@
 class Solution {
     public boolean isHappy(int n) {
         int slow = n, fast = n;
+       //c
         do {
             slow = sum(slow);
             fast = sum(fast);
