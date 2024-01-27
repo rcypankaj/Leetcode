@@ -8,7 +8,6 @@ class Solution {
                 negativeMax = negativeMax > num ? negativeMax : num;
             }
         }
-        System.out.println(positiveMin+" "+negativeMax);
         return 0 - negativeMax == positiveMin ? (int)positiveMin : 0 - negativeMax > positiveMin ? (int)positiveMin : (int)negativeMax;
         
     }
