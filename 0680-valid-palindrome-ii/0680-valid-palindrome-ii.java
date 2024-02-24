@@ -1,29 +1,29 @@
 class Solution {
      public boolean validPalindrome(String s) {
-        int i = 0, j = s.length() - 1;
-        
-        while (i < j) {
-            if (s.charAt(i) != s.charAt(j)) {
-                return isPalindrome(s, i + 1, j) || isPalindrome(s, i, j - 1);
+        int count = 1;
+        int si = 0, ei = s.length()-1;
+        while (si < ei) {
+            if (s.charAt(si) == s.charAt(ei)) {
+                si++;
+                ei--;
+            } else {
+                if (isPalindrome(s, si+1, ei) || isPalindrome(s, si, ei-1)) {
+                    return true;
+                } else {
+                    return false;
+                }
             }
-            i++;
-            j--;
         }
-
         return true;
     }
-    
-    /* Check is s[i...j] is palindrome. */
-    private boolean isPalindrome(String s, int i, int j) {
-        
-        while (i < j) {
-            if (s.charAt(i) != s.charAt(j)) {
+    public boolean isPalindrome(String s, int si, int ei) {
+        while (si < ei) {
+            if (s.charAt(si) != s.charAt(ei)) {
                 return false;
             }
-            i++;
-            j--;
+            si++;
+            ei--;
         }
-        
         return true;
     }
 }
