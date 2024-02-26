@@ -13,11 +13,4 @@ class Solution {
         }
         return maxScore;        
     }
-    public int countOnes(String s, int idx) {
-        int count = 0;
-        for (int i = idx; i < s.length(); i++) {
-            if (s.charAt(i) == '1') count++;
-        }
-        return count;
-    }
 }
