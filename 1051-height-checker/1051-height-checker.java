@@ -9,16 +9,6 @@ class Solution {
         for (int i = 0; i < heights.length; i++) {
             if (heights[i] != expected[i]) count++;
         }
-        // System.out.println(Arrays.toString(expected));               
-        // System.out.println(Arrays.toString(heights));
-
-        // for (int i = 1; i < heights.length; i++) {
-        //     if (heights[i] < max) {
-        //         count++;
-        //     } else {
-        //         max = Math.max(heights[i], max);
-        //     }
-        // }
         return count;
     }
 }
