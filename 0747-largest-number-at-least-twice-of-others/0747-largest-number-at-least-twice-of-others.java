@@ -6,7 +6,6 @@ class Solution {
                 maxIndex = i;
             }
         }
-        System.out.println(maxIndex);
         for (int i = 0; i < nums.length; i++) {
             if (nums[i] == nums[maxIndex]) continue;
              if (max2 == -1) {
@@ -15,7 +14,6 @@ class Solution {
                 max2 = i;
             }
         }
-        System.out.println(nums[maxIndex]+" "+nums[max2]);
         return nums[maxIndex] >= nums[max2] * 2 ? maxIndex : -1;
     }
 }
