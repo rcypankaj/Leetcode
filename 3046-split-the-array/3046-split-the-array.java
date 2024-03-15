@@ -1,15 +1,16 @@
 class Solution {
     public boolean isPossibleToSplit(int[] nums) {
-        Map<Integer, Integer> map = new HashMap<>();
+        int[] freqArr = new int[101];
         int count = 0;
-        for (int num : nums) {
-            map.put(num, map.getOrDefault(num, 0) + 1);
+        for (int i = 0; i < nums.length; i++) {
+            freqArr[nums[i]]++;
         }
-        for (Map.Entry<Integer, Integer> e: map.entrySet()) {
-            if (e.getValue() <= 2) {
-                count += e.getValue();
+        for (int num : freqArr) {
+            if (num <= 2) {
+                count += num;
             }
         }
+        
         return nums.length%2 == 0 && count == nums.length;
     }
 }
