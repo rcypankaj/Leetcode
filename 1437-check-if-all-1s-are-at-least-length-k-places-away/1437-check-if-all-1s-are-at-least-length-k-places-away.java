@@ -16,8 +16,6 @@ class Solution {
             if (si1 != -1 && ei1 != -1) min = ei1 - si1 - 1;
             
         }
-        // min = count == 0 ? min : Math.min(min, count);
-        System.out.println(min);
         return min >= k || (min == Integer.MAX_VALUE && k <= 0);
     }
 }
