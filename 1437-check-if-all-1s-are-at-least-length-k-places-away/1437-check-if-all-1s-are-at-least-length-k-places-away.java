@@ -1,6 +1,6 @@
 class Solution {
     public boolean kLengthApart(int[] nums, int k) {
-        int count = 0, min = Integer.MAX_VALUE;
+        int min = Integer.MAX_VALUE;
         int si1 = -1, ei1 = -1;
         for (int i = 0; i < nums.length; i++) {
             if (si1 == -1 && nums[i] == 1) {
