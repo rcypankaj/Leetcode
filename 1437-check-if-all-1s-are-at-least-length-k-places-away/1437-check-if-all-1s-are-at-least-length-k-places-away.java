@@ -1,11 +1,23 @@
 class Solution {
     public boolean kLengthApart(int[] nums, int k) {
-
-	for(int start = -1, i = 0; i < nums.length; i++) 
-		if(nums[i] == 1) {
-			if(start != -1 && i - start - 1 < k) return false;
-			start = i;
-		}
-	return true;
-}
+        int count = 0, min = Integer.MAX_VALUE;
+        int si1 = -1, ei1 = -1;
+        for (int i = 0; i < nums.length; i++) {
+            if (si1 == -1 && nums[i] == 1) {
+                si1 = i;
+            } else if (ei1 == -1 && nums[i] == 1) {
+                ei1 = i;
+            } else {
+                if (nums[i] == 1) {
+                    si1 = ei1;
+                    ei1 = i;
+                }
+            }
+            if (si1 != -1 && ei1 != -1) min = ei1 - si1 - 1;
+            
+        }
+        // min = count == 0 ? min : Math.min(min, count);
+        System.out.println(min);
+        return min >= k || (min == Integer.MAX_VALUE && k <= 0);
+    }
 }
