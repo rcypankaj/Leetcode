@@ -13,9 +13,8 @@ class Solution {
                     ei1 = i;
                 }
             }
-            if (si1 != -1 && ei1 != -1) min = ei1 - si1 - 1;
-            
+            if (si1 != -1 && ei1 != -1) min = ei1 - si1 - 1;            
         }
-        return min >= k ;
+        return min >= k;
     }
 }
