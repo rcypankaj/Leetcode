@@ -1,29 +1,14 @@
 class Solution {
-     public boolean validPalindrome(String s) {
-        int count = 1;
-        int si = 0, ei = s.length()-1;
-        while (si < ei) {
-            if (s.charAt(si) == s.charAt(ei)) {
-                si++;
-                ei--;
-            } else {
-                if (isPalindrome(s, si+1, ei) || isPalindrome(s, si, ei-1)) {
-                    return true;
-                } else {
-                    return false;
-                }
-            }
-        }
-        return true;
-    }
-    public boolean isPalindrome(String s, int si, int ei) {
-        while (si < ei) {
-            if (s.charAt(si) != s.charAt(ei)) {
-                return false;
-            }
-            si++;
-            ei--;
-        }
-        return true;
-    }
+    public boolean validPalindrome(String s) {
+        int l = -1, r = s.length();
+    while (++l < --r) 
+        if (s.charAt(l) != s.charAt(r)) return isPalindromic(s, l, r+1) || isPalindromic(s, l-1, r);
+    return true;
+}
+
+public boolean isPalindromic(String s, int l, int r) {
+    while (++l < --r) 
+        if (s.charAt(l) != s.charAt(r)) return false;
+    return true;
+}
 }
