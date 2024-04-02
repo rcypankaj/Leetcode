@@ -4,7 +4,6 @@ class Solution {
         for (int i = 0; i < nums.length; i++) {
             for (int j = i; j < nums.length; j++) {
                 int bitwiseVal = bitwiseOr(nums, i, j);
-                System.out.println(bitwiseVal+" "+i+" "+j);
                 if (bitwiseVal >= k) res = Math.min(res, j-i+1);
             }
         }
