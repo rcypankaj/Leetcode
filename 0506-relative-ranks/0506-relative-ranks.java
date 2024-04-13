@@ -1,30 +1,45 @@
 public class Solution {
-    public String[] findRelativeRanks(int[] nums) {
-        Integer[] index = new Integer[nums.length];
-        
-        for (int i = 0; i < nums.length; i++) {
-            index[i] = i;
-        }
-        
-        Arrays.sort(index, (a, b) -> (nums[b] - nums[a]));
-        
-        String[] result = new String[nums.length];
-
-        for (int i = 0; i < nums.length; i++) {
-            if (i == 0) {
-                result[index[i]] = "Gold Medal";
-            }
-            else if (i == 1) {
-                result[index[i]] = "Silver Medal";
-            }
-            else if (i == 2) {
-                result[index[i]] = "Bronze Medal";
-            }
-            else {
-                result[index[i]] = (i + 1) + "";
-            }
+    public String[] findRelativeRanks(int[] score) {
+        //store the indexes in the hashmap
+        HashMap<Integer,Integer> map = new HashMap<>();
+        int len= score.length;
+        for(int i =0;i<len;i++)
+        {
+            map.put(score[i],i);
         }
 
-        return result;
+        //create a max heap priority queue
+        PriorityQueue<Integer> pq = new PriorityQueue<>(Comparator.reverseOrder());
+
+        for (int num : score) {
+            pq.add(num);
+        }
+
+        String[] arr = new String[len];
+        // with a for loop get the indexs and place the String values
+        // in the String array
+        for(int i =0,j=1;i<len;i++,j++)
+        {
+            if(j ==1)
+            {
+                arr[map.get(pq.poll())] = "Gold Medal";
+                continue;
+            }
+            if(j ==2)
+            {
+                arr[map.get(pq.poll())] = "Silver Medal";
+                continue;
+            }
+            if(j ==3)
+            {
+                arr[map.get(pq.poll())] = "Bronze Medal";
+                continue;
+            }
+            arr[map.get(pq.poll())] = String.valueOf(j);
+            
+        }
+
+        return arr;
+    
     }
 }
