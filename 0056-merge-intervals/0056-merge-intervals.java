@@ -7,6 +7,16 @@ class Solution {
         });
     }
 
+    // Convert List<List<Integer>> back to int[][]
+    public int[][] convertListToArray(List<List<Integer>> list) {
+        int[][] result = new int[list.size()][2];
+        for (int i = 0; i < list.size(); i++) {
+            result[i][0] = list.get(i).get(0);
+            result[i][1] = list.get(i).get(1);
+        }
+        return result;
+    }
+
     public int[][] mergeOverlappingIntervals(int[][] intervals) {
         List<List<Integer>> list = new ArrayList<>();
         list.add(new ArrayList<>(Arrays.asList(intervals[0][0], intervals[0][1])));
@@ -26,14 +36,7 @@ class Solution {
             }
         }
 
-        // Convert List<List<Integer>> back to int[][]
-        int[][] result = new int[list.size()][2];
-        for (int i = 0; i < list.size(); i++) {
-            result[i][0] = list.get(i).get(0);
-            result[i][1] = list.get(i).get(1);
-        }
-
-        return result;
+        return convertListToArray(list);
     }
     public int[][] merge(int[][] intervals) {
         sortArray(intervals);
