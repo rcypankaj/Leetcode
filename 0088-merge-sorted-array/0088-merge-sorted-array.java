@@ -4,7 +4,7 @@ class Solution {
         nums2[j] = nums1[i] - nums2[j];
         nums1[i] = nums1[i] - nums2[j];
     }
-    public void mergeUsingBruteForce(int[] nums1, int[] nums2, int m, int n) {
+    public void mergeArr(int[] nums1, int[] nums2, int m, int n) {
         if (n == 0) return;
         int length1 = nums1.length;
         int[] result = new int[length1];
@@ -36,6 +36,6 @@ class Solution {
         Arrays.sort(nums1);
     }
     public void merge(int[] nums1, int m, int[] nums2, int n) {
-        mergeWithoutExtraSpace(nums1, nums2, m, n);
+        mergeArr(nums1, nums2, m, n);
     }
 }
