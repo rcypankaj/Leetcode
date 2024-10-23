@@ -29,22 +29,13 @@ class Solution {
     }
 
     public void mergeWithoutExtraSpace(int[] nums1, int[] nums2, int m, int n) {
-        int left = 0, right = 0;
-        while (left >= 0 && right < n) {
-            if (nums1[left] > nums2[right]) {
-                swapVal(nums1, nums2, left, right);
-                left--;
-                right++;
-            } else break;
-
-        }
-
-        for (int i = n; i < m+n; i++) {
-            nums1[i] = nums2[i-n];
+        for (int j = 0, i = m; j < n; j++) {
+            nums1[i] = nums2[j];
+            i++;
         }
         Arrays.sort(nums1);
     }
     public void merge(int[] nums1, int m, int[] nums2, int n) {
-        mergeUsingBruteForce(nums1, nums2, m, n);
+        mergeWithoutExtraSpace(nums1, nums2, m, n);
     }
 }
