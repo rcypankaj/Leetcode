@@ -39,8 +39,8 @@ class Solution {
 
         }
 
-        for (int i = n, j = 0; i < m+n; i++) {
-            nums1[i] = nums2[j++];
+        for (int i = n; i < m+n; i++) {
+            nums1[i] = nums2[i-n];
         }
         Arrays.sort(nums1);
     }
