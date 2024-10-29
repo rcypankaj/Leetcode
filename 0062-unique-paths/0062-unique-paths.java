@@ -12,25 +12,13 @@ class Solution {
         int r = m-1;
         double ans = 1;
         for (int i = 1; i <= r; i++) {
-            ans = ans* (paths-r+i)/i;
-            System.out.println(i+" "+ans+" "+(paths-r+i)/i);
+            ans = ans * (paths-r+i)/i;
         }
         return (int)ans;
     }
-       public int uniquePaths4(int m, int n) {
-        int N = n + m - 2;
-        int r = m - 1;
-        double res = 1;
-
-        for(int i = 1; i <= r; i++){
-            res = res * (N-r+i)/i;
-        }
-
-        return (int)res;
-    }
     public int uniquePaths(int m, int n) {
-        // return uniquePaths4(m, n);
-        return findUniquePaths2(m, n);
+        return findUniquePaths1(new int[m][n], 0, 0, m, n);
+        // return findUniquePaths2(m, n);
 
     }
 }
