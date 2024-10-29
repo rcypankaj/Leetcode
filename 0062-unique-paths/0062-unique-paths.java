@@ -17,8 +17,8 @@ class Solution {
         return (int)ans;
     }
     public int uniquePaths(int m, int n) {
-        return findUniquePaths1(new int[m][n], 0, 0, m, n);
-        // return findUniquePaths2(m, n);
+        // return findUniquePaths1(new int[m][n], 0, 0, m, n);
+        return findUniquePaths2(m, n);
 
     }
 }
