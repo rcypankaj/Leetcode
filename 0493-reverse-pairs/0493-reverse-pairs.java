@@ -36,7 +36,6 @@ class Solution {
             nums[j] = merger[i];
         }
     }
-    // Using Brute Force
     private int findReversePairs1(int[] nums, int si, int ei) {
         int count = 0;
         if (si >= ei) return count;
