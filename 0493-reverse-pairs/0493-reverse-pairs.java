@@ -50,8 +50,6 @@ class Solution {
         return count;
     }
     public int reversePairs(int[] nums) {
-        int cou =  findReversePairs1(nums, 0, nums.length-1);
-        System.out.println(Arrays.toString(nums));
-        return cou;
+        return findReversePairs1(nums, 0, nums.length-1);
     }
 }
