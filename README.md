@@ -6,6 +6,7 @@ This repository contains leetcode problems and solutions.
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/rcypankaj/Leetcode/tree/master/0001-two-sum) |
 | [0056-merge-intervals](https://github.com/rcypankaj/Leetcode/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/rcypankaj/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/rcypankaj/Leetcode/tree/master/0287-find-the-duplicate-number) |
@@ -61,4 +62,8 @@ This repository contains leetcode problems and solutions.
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/rcypankaj/Leetcode/tree/master/0493-reverse-pairs) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/rcypankaj/Leetcode/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
