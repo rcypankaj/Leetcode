@@ -9,7 +9,7 @@ class Solution {
         }
         return new int[]{};
     }
-    // Better Approach
+    // Optimal Approach
     private int[] findTwoSum2(int[] nums, int target) {
         int n = nums.length;
         Map<Integer, Integer> freq = new HashMap<>();
