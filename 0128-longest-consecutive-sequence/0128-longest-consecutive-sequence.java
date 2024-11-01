@@ -72,7 +72,7 @@ class Solution {
     }
     public int longestConsecutive(int[] nums) {
         // return findLongestConsecutive1(nums);
-        // return findLongestConsecutive2(nums);
-        return findLongestConsecutive3(nums);
+        return findLongestConsecutive2(nums);
+        // return findLongestConsecutive3(nums);
     }
 }
