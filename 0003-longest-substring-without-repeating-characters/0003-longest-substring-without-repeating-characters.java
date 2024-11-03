@@ -1,24 +1,50 @@
 class Solution {
-    public int lengthOfLongestSubstring(String s) {
-        Map<Character, Integer> map = new HashMap<>();
-        int i = 0;
-        int j = 0;
-        int max = 0;
-        while(j < s.length()){
-            map.put(s.charAt(j), map.getOrDefault(s.charAt(j), 0) + 1);
-            if(map.size() == j - i + 1){
-                max = Math.max(max, j - i + 1);
-                j++;
-            }
-            else if(map.size() < j - i + 1){
-                while(map.size() < j - i + 1){
-                    map.put(s.charAt(i), map.get(s.charAt(i)) - 1);
-                    if(map.get(s.charAt(i)) == 0) map.remove(s.charAt(i));
-                    i++;
+    private int findLengthOfLongestSubstring1(String s) {
+        int n = s.length();
+        int maxLen = 0;
+        for (int i = 0; i < n; i++) {
+            for (int j = 0; j < n; j++) {
+                Set<Character> charSet = new HashSet<>();
+                for (int k = i; k <= j; k++) {
+                    charSet.add(s.charAt(k));
                 }
-                j++;
+                if (charSet.size() == j-i+1) maxLen = Math.max(maxLen, j-i+1);
             }
         }
-        return max;
+        return maxLen;
+    }
+    private int removeDuplicate(Set<Character> charSet, String s, char ch, int l, int r) {
+        int n = s.length();
+        while (charSet.contains(ch)) {
+            charSet.remove(s.charAt(l++));
+        }
+        return l;
+    }
+    private int findLengthOfLongestSubstring2(String s) {
+        int n = s.length();
+        Set<Character> charSet =  new HashSet<>();
+        int maxLen = 0;
+        int l = 0, r = 0;
+        while (r < n) {
+            char currChar = s.charAt(r);
+            if (!charSet.contains(currChar)) {
+                maxLen = Math.max(r-l+1, maxLen);
+                charSet.add(currChar);
+                r++;
+            } else {
+                l = removeDuplicate(charSet, s, currChar, l, r);
+                maxLen = Math.max(r-l+1, maxLen);
+                charSet.add(currChar);
+                r++;
+            }
+        }
+        return maxLen;
+    }
+    public int lengthOfLongestSubstring(String s) {
+        // Brute force
+        // return findLengthOfLongestSubstring1(s);
+        // Better Approach
+        return findLengthOfLongestSubstring2(s);
+        
     }
 }
