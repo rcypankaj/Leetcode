@@ -3,12 +3,16 @@ class Solution {
         int n = s.length();
         int maxLen = 0;
         for (int i = 0; i < n; i++) {
-            for (int j = 0; j < n; j++) {
-                Set<Character> charSet = new HashSet<>();
-                for (int k = i; k <= j; k++) {
-                    charSet.add(s.charAt(k));
+            Set<Character> charSet = new HashSet<>();
+            for (int j = i; j < n; j++) {
+                char currChar = s.charAt(j);
+                if (charSet.contains(currChar)) {
+                    maxLen = Math.max(maxLen, j-i);
+                    break;
+                } else {
+                    maxLen = Math.max(maxLen, j-i+1);
+                    charSet.add(currChar);
                 }
-                if (charSet.size() == j-i+1) maxLen = Math.max(maxLen, j-i+1);
             }
         }
         return maxLen;
@@ -42,9 +46,10 @@ class Solution {
     }
     public int lengthOfLongestSubstring(String s) {
         // Brute force
-        // return findLengthOfLongestSubstring1(s);
+        return findLengthOfLongestSubstring1(s);
+
         // Better Approach
-        return findLengthOfLongestSubstring2(s);
+        // return findLengthOfLongestSubstring2(s);
         
     }
 }
