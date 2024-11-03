@@ -1,4 +1,18 @@
 class Solution {
+    private int findLengthOfLongestSubstring3(String s) {
+        int n = s.length();
+        Map<Character, Integer> freqMap =  new HashMap<>();
+        int maxLen = 0;
+        int l = 0, r = 0;
+        while (r < n) {
+            char currChar = s.charAt(r);
+            if (freqMap.containsKey(currChar)) l = Math.max(freqMap.get(currChar)+1, l);
+            freqMap.put(currChar, r);
+            maxLen = Math.max(maxLen, r-l+1);
+            r++;
+        }
+        return maxLen;
+    }
     private int findLengthOfLongestSubstring1(String s) {
         int n = s.length();
         int maxLen = 0;
@@ -46,10 +60,13 @@ class Solution {
     }
     public int lengthOfLongestSubstring(String s) {
         // Brute force
-        return findLengthOfLongestSubstring1(s);
+        // return findLengthOfLongestSubstring1(s);
 
         // Better Approach
         // return findLengthOfLongestSubstring2(s);
+
+        // Optimal Approach
+        return findLengthOfLongestSubstring3(s);
         
     }
 }
