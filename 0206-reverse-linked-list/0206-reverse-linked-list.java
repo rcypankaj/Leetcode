@@ -9,6 +9,16 @@
  * }
  */
 class Solution {
+    private ListNode reverseList3(ListNode head) {
+        if (head == null || head.next == null) return head;
+
+        ListNode res = reverseList3(head.next);
+
+        ListNode front = head.next;
+        front.next = head;
+        head.next = null;
+        return res;
+    }
     private ListNode reverseList1(ListNode head) {
         Stack<Integer> stack = new Stack<>();
 
@@ -40,6 +50,9 @@ class Solution {
         // Brute force
         // return reverseList1(head);
         // Optimal Approach 1
-        return reverseList2(head);
+        // return reverseList2(head);
+
+        // Optimal Approach using recursion
+        return reverseList3(head);
     }
 }
