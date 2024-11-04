@@ -25,8 +25,21 @@ class Solution {
         }
         return head;
     }
+    private ListNode reverseList2(ListNode head) {
+        ListNode prev = null, temp = head;
+        while (temp != null) {
+            ListNode rem = temp.next;
+            temp.next = prev;
+            prev = temp;
+
+            temp = rem;
+        }
+        return prev;
+    }
     public ListNode reverseList(ListNode head) {
         // Brute force
-        return reverseList1(head);
+        // return reverseList1(head);
+        // Optimal Approach 1
+        return reverseList2(head);
     }
 }
