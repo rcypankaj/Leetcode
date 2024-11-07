@@ -20,9 +20,7 @@ class Solution {
         int nth = size-n;
         temp = head;
         if (nth == 0) return head.next;
-        System.out.println(nth);
         while (nth >= 0) {
-        System.out.println(nth);
             if (nth == 1) temp.next = temp.next.next;
             else temp = temp.next;
             nth--;
