@@ -10,24 +10,24 @@
  */
 class Solution {
     private ListNode addTwoNumbers1(ListNode l1, ListNode l2) {
+        // Make a answer List
         ListNode res = new ListNode();
+        // Create three iterators
         ListNode it1 = l1, it2 = l2, it3 = res;
         int carry = 0;
 
 
+        // Traverse untill any element remains
         while (it1 != null || it2 != null || carry != 0) {
-            int sum = 0;
-            if (it1 != null && it2 != null) {
-                sum += it1.val + it2.val+ carry;
-            } else {
-                sum = it1 == null && it2 == null ? carry : it1 == null ? it2.val + carry : it1.val+carry;
+            int val1 = it1 != null ? it1.val : 0;
+            int val2 = it2 != null ? it2.val : 0;
+            int sum = val1+val2+carry;
 
-            }
             it3.next = new ListNode(sum%10);
             it3 = it3.next;
             carry = sum/10;
-            it1 = it1 == null ? it1 : it1.next;
-            it2 = it2 == null ? it2 : it2.next;
+            if (it1 != null) it1 = it1.next;
+            if (it2 != null) it2 = it2.next;
         }
         return res.next;
     }
