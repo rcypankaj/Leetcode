@@ -23,7 +23,6 @@ class Solution {
                 sum = it1 == null && it2 == null ? carry : it1 == null ? it2.val + carry : it1.val+carry;
 
             }
-            System.out.println(sum);
             it3.next = new ListNode(sum%10);
             it3 = it3.next;
             carry = sum/10;
