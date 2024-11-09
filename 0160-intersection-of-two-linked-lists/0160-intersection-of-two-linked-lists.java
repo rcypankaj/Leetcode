@@ -18,6 +18,45 @@ public class Solution {
         }
     }
 
+    private int getDifference(ListNode headA, ListNode headB) {
+        int len1 = 0, len2 = 0;
+        ListNode currA = headA, currB = headB;
+
+        // Calculate the length of each list
+        while (currA != null) {
+            len1++;
+            currA = currA.next;
+        }
+        while (currB != null) {
+            len2++;
+            currB = currB.next;
+        }
+
+        return len1 - len2;
+    }
+    private ListNode intersectionNode3(ListNode headA, ListNode headB) {
+        int diff = getDifference(headA, headB);
+
+        // Move the pointer in the longer list by the difference in lengths
+        if (diff > 0) {
+            while (diff-- > 0) {
+                headA = headA.next;
+            }
+        } else {
+            while (diff++ < 0) {
+                headB = headB.next;
+            }
+        }
+
+        // Traverse both lists together until intersection is found
+        while (headA != null && headB != null) {
+            if (headA == headB) return headA;
+            headA = headA.next;
+            headB = headB.next;
+        }
+
+        return null; // No intersection
+    }
     private ListNode intersectionNode2(ListNode headA, ListNode headB) {
         HashSet<ListNode> freq = new HashSet<>();
         ListNode it1 = headA, it2 = headB;
@@ -48,6 +87,8 @@ public class Solution {
     public ListNode getIntersectionNode(ListNode headA, ListNode headB) {
         // return intersectionNode1(headA, headB);
 
-        return intersectionNode2(headA, headB);
+        // return intersectionNode2(headA, headB);
+
+        return intersectionNode3(headA, headB);
     }
 }
