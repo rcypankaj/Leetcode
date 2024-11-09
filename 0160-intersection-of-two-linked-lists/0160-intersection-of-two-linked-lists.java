@@ -31,7 +31,6 @@ public class Solution {
     }
 
     public ListNode getIntersectionNode(ListNode headA, ListNode headB) {
-        printListNode(headA);
         return intersectionVal(headA, headB);
     }
 }
