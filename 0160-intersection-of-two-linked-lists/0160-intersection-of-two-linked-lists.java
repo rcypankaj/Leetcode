@@ -17,7 +17,22 @@ public class Solution {
             it1 = it1.next;
         }
     }
-    private ListNode intersectionVal(ListNode headA, ListNode headB) {
+
+    private ListNode intersectionNode2(ListNode headA, ListNode headB) {
+        HashSet<ListNode> freq = new HashSet<>();
+        ListNode it1 = headA, it2 = headB;
+        while (it1 != null) {
+            freq.add(it1);
+            it1 = it1.next;
+        }
+
+        while (it2 != null) {
+            if (freq.contains(it2)) return it2;
+            it2 = it2.next;
+        }
+        return null;
+    }
+    private ListNode intersectionNode1(ListNode headA, ListNode headB) {
         ListNode it2 = headB;
         while (it2 != null) {
             ListNode it1 = headA;
@@ -31,6 +46,6 @@ public class Solution {
     }
 
     public ListNode getIntersectionNode(ListNode headA, ListNode headB) {
-        return intersectionVal(headA, headB);
+        return intersectionNode1(headA, headB);
     }
 }
