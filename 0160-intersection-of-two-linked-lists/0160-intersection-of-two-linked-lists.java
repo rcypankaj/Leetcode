@@ -46,6 +46,8 @@ public class Solution {
     }
 
     public ListNode getIntersectionNode(ListNode headA, ListNode headB) {
-        return intersectionNode1(headA, headB);
+        // return intersectionNode1(headA, headB);
+
+        return intersectionNode2(headA, headB);
     }
 }
