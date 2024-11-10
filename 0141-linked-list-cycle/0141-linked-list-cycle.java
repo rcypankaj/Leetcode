@@ -11,8 +11,11 @@
  */
 public class Solution {
     private boolean hasCycle2(ListNode head) {
+        // Return false if we have null in the node
         if (head == null || head.next == null) return false;
         ListNode slow = head, fast = head.next.next;
+
+        // Iterate over ListNode until we found same node or null
         while (fast != null && fast.next != null) {
             if (slow == fast) return true;
             slow = slow.next;
