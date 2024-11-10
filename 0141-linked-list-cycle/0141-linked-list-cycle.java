@@ -10,26 +10,32 @@
  * }
  */
 public class Solution {
-    private void printList(ListNode head) {
-        ListNode it = head;
-        while (it != null) {
-            System.out.println(it.val);
-            it = it.next;
-        }
-    }
     private boolean hasCycle2(ListNode head) {
+        if (head == null || head.next == null) return false;
+        ListNode slow = head, fast = head.next.next;
+        while (fast != null && fast.next != null) {
+            if (slow == fast) return true;
+            slow = slow.next;
+            fast = fast.next.next;
+        }
+        return false;
+    }
+    private boolean hasCycle1(ListNode head) {
+        // Keep a hashset to track the previously occured node
         HashSet<ListNode> freq = new HashSet<>();   
         ListNode it = head;
         while (it != null) {
+            // return if we found exixting node
             if (freq.contains(it)) return true;
-            else {
-                freq.add(it);
-            }
+            freq.add(it);
             it = it.next;
         }
         return false;
     }
     public boolean hasCycle(ListNode head) {
+        // Brute force
+        // return hasCycle1(head);
+
         return hasCycle2(head);
     }
 }
