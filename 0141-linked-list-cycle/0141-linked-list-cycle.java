@@ -39,6 +39,7 @@ public class Solution {
         // Brute force
         // return hasCycle1(head);
 
+        // Optimal Approach
         return hasCycle2(head);
     }
 }
