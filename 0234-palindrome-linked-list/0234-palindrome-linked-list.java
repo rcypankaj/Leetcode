@@ -111,6 +111,6 @@ class Solution {
         // return isPalindrome2(head);
 
         // Optimal approach2
-        return isPalindrome2(head);
+        return isPalindrome3(head);
     }
 }
