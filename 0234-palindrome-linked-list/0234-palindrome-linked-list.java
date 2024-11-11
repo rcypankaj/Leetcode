@@ -21,8 +21,6 @@ class Solution {
 
         while (it != null) {
             ListNode nextNode = it.next;
-            // printList(it);
-            // System.out.println();
             it.next = prev;
             prev = it;
             it = nextNode;
@@ -30,6 +28,26 @@ class Solution {
         return prev;
     }
     
+    private boolean isPalindrome3(ListNode head) {
+        if (head == null || head.next == null) return true;
+        ListNode slow = head, fast = head;
+        // Find middle node
+        while (fast != null && fast.next != null) {
+            slow = slow.next;
+            fast = fast.next.next;
+        }
+        // Get the reversed linked list
+        ListNode newHead = reverseLinkedList(slow);
+        ListNode slow1 = head, slow2 = newHead;
+
+        while (slow2 != null) {
+            // return false slow1 val != slow2 val 
+            if (slow1.val != slow2.val) return false;
+            slow1 = slow1.next;
+            slow2 = slow2.next;
+        }
+        return true;
+    }
     private boolean isPalindrome2(ListNode head) {
 
         if (head == null || head.next == null) return true;
@@ -59,32 +77,6 @@ class Solution {
         reverseLinkedList(newHead); 
         return true;
     }
-
-    private boolean isPalindrome3(ListNode head) {
-
-        if (head == null || head.next == null) return true;
-        
-        ListNode slow = head, fast = head;
-        // Find middle node
-        while (fast != null && fast.next != null) {
-            slow = slow.next;
-            fast = fast.next.next;
-        }
-
-        // Get the reversed linked list
-        ListNode newHead = reverseLinkedList(slow);
-        ListNode slow1 = head, slow2 = newHead;
-
-        while (slow2 != null) {
-            // return false slow1 val != slow2 val 
-            if (slow1.val != slow2.val) {
-                return false;
-            }
-            slow1 = slow1.next;
-            slow2 = slow2.next;
-        }
-        return true;
-    }
     private boolean isPalindrome1(ListNode head) {
         ArrayList<Integer> list = new ArrayList<>();
         ListNode it = head;
@@ -110,7 +102,7 @@ class Solution {
         // Optimal approach
         // return isPalindrome2(head);
 
-        // Optimal approach2
+        // Optimal approach3
         return isPalindrome3(head);
     }
 }
