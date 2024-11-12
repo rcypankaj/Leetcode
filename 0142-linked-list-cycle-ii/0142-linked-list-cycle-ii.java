@@ -46,9 +46,9 @@ public class Solution {
     }
     public ListNode detectCycle(ListNode head) {
         // Brute force
-        // return detectCycle1(head);
+        return detectCycle1(head);
 
         // Optimal approach
-        return detectCycle2(head);
+        // return detectCycle2(head);
     }
 }
