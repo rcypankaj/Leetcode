@@ -46,10 +46,12 @@ This repository contains leetcode problems and solutions.
 | ------- |
 | [0002-add-two-numbers](https://github.com/rcypankaj/Leetcode/tree/master/0002-add-two-numbers) |
 | [0062-unique-paths](https://github.com/rcypankaj/Leetcode/tree/master/0062-unique-paths) |
+| [0264-ugly-number-ii](https://github.com/rcypankaj/Leetcode/tree/master/0264-ugly-number-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/rcypankaj/Leetcode/tree/master/0062-unique-paths) |
+| [0264-ugly-number-ii](https://github.com/rcypankaj/Leetcode/tree/master/0264-ugly-number-ii) |
 ## Combinatorics
 |  |
 | ------- |
@@ -83,6 +85,7 @@ This repository contains leetcode problems and solutions.
 | [0141-linked-list-cycle](https://github.com/rcypankaj/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/rcypankaj/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/rcypankaj/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0264-ugly-number-ii](https://github.com/rcypankaj/Leetcode/tree/master/0264-ugly-number-ii) |
 ## Union Find
 |  |
 | ------- |
@@ -120,4 +123,8 @@ This repository contains leetcode problems and solutions.
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/rcypankaj/Leetcode/tree/master/0234-palindrome-linked-list) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0264-ugly-number-ii](https://github.com/rcypankaj/Leetcode/tree/master/0264-ugly-number-ii) |
 <!---LeetCode Topics End-->
