@@ -129,4 +129,8 @@ This repository contains leetcode problems and solutions.
 |  |
 | ------- |
 | [0264-ugly-number-ii](https://github.com/rcypankaj/Leetcode/tree/master/0264-ugly-number-ii) |
+## Database
+|  |
+| ------- |
+| [1158-market-analysis-i](https://github.com/rcypankaj/Leetcode/tree/master/1158-market-analysis-i) |
 <!---LeetCode Topics End-->
