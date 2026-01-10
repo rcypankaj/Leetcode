@@ -62,6 +62,7 @@ This repository contains leetcode problems and solutions.
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/rcypankaj/Leetcode/tree/master/0493-reverse-pairs) |
+| [0558-logical-or-of-two-binary-grids-represented-as-quad-trees](https://github.com/rcypankaj/Leetcode/tree/master/0558-logical-or-of-two-binary-grids-represented-as-quad-trees) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -133,4 +134,8 @@ This repository contains leetcode problems and solutions.
 |  |
 | ------- |
 | [1158-market-analysis-i](https://github.com/rcypankaj/Leetcode/tree/master/1158-market-analysis-i) |
+## Tree
+|  |
+| ------- |
+| [0558-logical-or-of-two-binary-grids-represented-as-quad-trees](https://github.com/rcypankaj/Leetcode/tree/master/0558-logical-or-of-two-binary-grids-represented-as-quad-trees) |
 <!---LeetCode Topics End-->
