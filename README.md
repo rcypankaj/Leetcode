@@ -43,6 +43,7 @@ This repository contains leetcode problems and solutions.
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/rcypankaj/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0756-pyramid-transition-matrix](https://github.com/rcypankaj/Leetcode/tree/master/0756-pyramid-transition-matrix) |
 ## Math
 |  |
 | ------- |
@@ -91,6 +92,7 @@ This repository contains leetcode problems and solutions.
 | [0142-linked-list-cycle-ii](https://github.com/rcypankaj/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/rcypankaj/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0264-ugly-number-ii](https://github.com/rcypankaj/Leetcode/tree/master/0264-ugly-number-ii) |
+| [0756-pyramid-transition-matrix](https://github.com/rcypankaj/Leetcode/tree/master/0756-pyramid-transition-matrix) |
 ## Union Find
 |  |
 | ------- |
@@ -100,6 +102,7 @@ This repository contains leetcode problems and solutions.
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rcypankaj/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0541-reverse-string-ii](https://github.com/rcypankaj/Leetcode/tree/master/0541-reverse-string-ii) |
+| [0756-pyramid-transition-matrix](https://github.com/rcypankaj/Leetcode/tree/master/0756-pyramid-transition-matrix) |
 ## Sliding Window
 |  |
 | ------- |
@@ -144,4 +147,8 @@ This repository contains leetcode problems and solutions.
 |  |
 | ------- |
 | [0808-soup-servings](https://github.com/rcypankaj/Leetcode/tree/master/0808-soup-servings) |
+## Backtracking
+|  |
+| ------- |
+| [0756-pyramid-transition-matrix](https://github.com/rcypankaj/Leetcode/tree/master/0756-pyramid-transition-matrix) |
 <!---LeetCode Topics End-->
