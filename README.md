@@ -93,6 +93,7 @@ This repository contains leetcode problems and solutions.
 | [0160-intersection-of-two-linked-lists](https://github.com/rcypankaj/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0264-ugly-number-ii](https://github.com/rcypankaj/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0756-pyramid-transition-matrix](https://github.com/rcypankaj/Leetcode/tree/master/0756-pyramid-transition-matrix) |
+| [2405-optimal-partition-of-string](https://github.com/rcypankaj/Leetcode/tree/master/2405-optimal-partition-of-string) |
 ## Union Find
 |  |
 | ------- |
@@ -103,6 +104,7 @@ This repository contains leetcode problems and solutions.
 | [0003-longest-substring-without-repeating-characters](https://github.com/rcypankaj/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0541-reverse-string-ii](https://github.com/rcypankaj/Leetcode/tree/master/0541-reverse-string-ii) |
 | [0756-pyramid-transition-matrix](https://github.com/rcypankaj/Leetcode/tree/master/0756-pyramid-transition-matrix) |
+| [2405-optimal-partition-of-string](https://github.com/rcypankaj/Leetcode/tree/master/2405-optimal-partition-of-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -151,4 +153,8 @@ This repository contains leetcode problems and solutions.
 |  |
 | ------- |
 | [0756-pyramid-transition-matrix](https://github.com/rcypankaj/Leetcode/tree/master/0756-pyramid-transition-matrix) |
+## Greedy
+|  |
+| ------- |
+| [2405-optimal-partition-of-string](https://github.com/rcypankaj/Leetcode/tree/master/2405-optimal-partition-of-string) |
 <!---LeetCode Topics End-->
