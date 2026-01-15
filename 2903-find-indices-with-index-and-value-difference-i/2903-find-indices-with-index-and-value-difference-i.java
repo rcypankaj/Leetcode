@@ -1,12 +1,13 @@
 class Solution {
-    public int[] findIndices(int[] A, int d, int v) {
-        int mini = 0, maxi = 0, n = A.length;
-        for (int i = d; i < n; i++) {
-            if (A[i - d] < A[mini]) mini = i - d;
-            if (A[i - d] > A[maxi]) maxi = i - d;
-            if (A[i] - A[mini] >= v) return new int[] {mini, i};
-            if (A[maxi] - A[i] >= v) return new int[] {maxi, i};
+    public int[] findIndices(int[] nums, int indexDifference, int valueDifference) {
+        int arr[]={-1,-1};
+        for(int i=0;i<nums.length;i++){
+            for(int j=0;j<nums.length;j++){
+                if(Math.abs(i-j)>=indexDifference && Math.abs(nums[i]-nums[j])>=valueDifference){
+                    arr[0]=i;
+                    arr[1]=j;
+                }}
         }
-        return new int[] { -1, -1};
+        return arr;
     }
 }
