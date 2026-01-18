@@ -54,6 +54,7 @@ This repository contains leetcode problems and solutions.
 | [0062-unique-paths](https://github.com/rcypankaj/Leetcode/tree/master/0062-unique-paths) |
 | [0264-ugly-number-ii](https://github.com/rcypankaj/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0808-soup-servings](https://github.com/rcypankaj/Leetcode/tree/master/0808-soup-servings) |
+| [0836-rectangle-overlap](https://github.com/rcypankaj/Leetcode/tree/master/0836-rectangle-overlap) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -171,4 +172,8 @@ This repository contains leetcode problems and solutions.
 |  |
 | ------- |
 | [2762-continuous-subarrays](https://github.com/rcypankaj/Leetcode/tree/master/2762-continuous-subarrays) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/rcypankaj/Leetcode/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
