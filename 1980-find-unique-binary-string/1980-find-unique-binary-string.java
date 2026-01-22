@@ -1,7 +1,6 @@
 class Solution {
     int n;
     Set<String> numsSet = new HashSet();
-    
     private String generate(String curr) {
         if (curr.length() == n) {
             if (!numsSet.contains(curr)) {
