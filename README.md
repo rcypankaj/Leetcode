@@ -10,6 +10,7 @@ This repository contains leetcode problems and solutions.
 | [0018-4sum](https://github.com/rcypankaj/Leetcode/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/rcypankaj/Leetcode/tree/master/0056-merge-intervals) |
 | [0059-spiral-matrix-ii](https://github.com/rcypankaj/Leetcode/tree/master/0059-spiral-matrix-ii) |
+| [0073-set-matrix-zeroes](https://github.com/rcypankaj/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0088-merge-sorted-array](https://github.com/rcypankaj/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/rcypankaj/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0268-missing-number](https://github.com/rcypankaj/Leetcode/tree/master/0268-missing-number) |
@@ -102,6 +103,7 @@ This repository contains leetcode problems and solutions.
 | ------- |
 | [0001-two-sum](https://github.com/rcypankaj/Leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rcypankaj/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0073-set-matrix-zeroes](https://github.com/rcypankaj/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/rcypankaj/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/rcypankaj/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/rcypankaj/Leetcode/tree/master/0142-linked-list-cycle-ii) |
@@ -199,6 +201,7 @@ This repository contains leetcode problems and solutions.
 |  |
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/rcypankaj/Leetcode/tree/master/0059-spiral-matrix-ii) |
+| [0073-set-matrix-zeroes](https://github.com/rcypankaj/Leetcode/tree/master/0073-set-matrix-zeroes) |
 ## Simulation
 |  |
 | ------- |
