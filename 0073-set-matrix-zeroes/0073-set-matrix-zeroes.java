@@ -7,7 +7,6 @@ class Solution {
                 continue;
             }
             flag[i][k++] = true;
-            // arr[i][k++] = -1;
         }
     }
     public void entireCol(int[][] arr, int i, int j, boolean[][] flag) {
@@ -17,7 +16,6 @@ class Solution {
                 k++;
                 continue;
             }
-            // arr[k++][j] = -1;
             flag[k++][j] = true;
         }
     }
