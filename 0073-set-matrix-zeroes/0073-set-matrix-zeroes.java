@@ -22,7 +22,6 @@ class Solution {
                 }
             }
         }
-        // System.out.println(zeroinFirstRow + "zeroinFirstRow");
         if (zeroinFirstRow)
             for (int i = 0; i < m; i++)
                 matrix[0][i] = 0;
