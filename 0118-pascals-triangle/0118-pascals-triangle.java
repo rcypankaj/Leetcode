@@ -1,14 +1,21 @@
 class Solution {
     public List<List<Integer>> generate(int numRows) {
-        List<List<Integer>> res = new ArrayList<>();
+        List<List<Integer>> triangle = new ArrayList<>();
 
         for (int i = 0; i < numRows; i++) {
-            List<Integer> list = new ArrayList<>(Collections.nCopies(i+1, 1));
-            for (int j = 1; j < i; j++) {
-                list.set(j, res.get(i-1).get(j-1)+ res.get(i-1).get(j));
-            }
-            res.add(list);
+            triangle.add(getNthRow(i));
         }
-        return res;
+        return triangle;
+    }
+    private List<Integer> getNthRow(int n) {
+        List<Integer> row = new ArrayList<>();
+        int val = 1;
+        row.add(val);
+
+        for (int k = 1; k <= n; k++) {
+            val = val * (n - k + 1) / k;
+            row.add(val);
+        }
+        return row;
     }
 }
