@@ -20,6 +20,7 @@ This repository contains leetcode problems and solutions.
 | [0493-reverse-pairs](https://github.com/rcypankaj/Leetcode/tree/master/0493-reverse-pairs) |
 | [1703-minimum-adjacent-swaps-for-k-consecutive-ones](https://github.com/rcypankaj/Leetcode/tree/master/1703-minimum-adjacent-swaps-for-k-consecutive-ones) |
 | [1980-find-unique-binary-string](https://github.com/rcypankaj/Leetcode/tree/master/1980-find-unique-binary-string) |
+| [2109-adding-spaces-to-a-string](https://github.com/rcypankaj/Leetcode/tree/master/2109-adding-spaces-to-a-string) |
 | [2580-count-ways-to-group-overlapping-ranges](https://github.com/rcypankaj/Leetcode/tree/master/2580-count-ways-to-group-overlapping-ranges) |
 | [2762-continuous-subarrays](https://github.com/rcypankaj/Leetcode/tree/master/2762-continuous-subarrays) |
 | [2766-relocate-marbles](https://github.com/rcypankaj/Leetcode/tree/master/2766-relocate-marbles) |
@@ -51,6 +52,7 @@ This repository contains leetcode problems and solutions.
 | [0234-palindrome-linked-list](https://github.com/rcypankaj/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/rcypankaj/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0541-reverse-string-ii](https://github.com/rcypankaj/Leetcode/tree/master/0541-reverse-string-ii) |
+| [2109-adding-spaces-to-a-string](https://github.com/rcypankaj/Leetcode/tree/master/2109-adding-spaces-to-a-string) |
 | [2856-minimum-array-length-after-pair-removals](https://github.com/rcypankaj/Leetcode/tree/master/2856-minimum-array-length-after-pair-removals) |
 | [2903-find-indices-with-index-and-value-difference-i](https://github.com/rcypankaj/Leetcode/tree/master/2903-find-indices-with-index-and-value-difference-i) |
 ## Binary Search
@@ -137,6 +139,7 @@ This repository contains leetcode problems and solutions.
 | [0541-reverse-string-ii](https://github.com/rcypankaj/Leetcode/tree/master/0541-reverse-string-ii) |
 | [0756-pyramid-transition-matrix](https://github.com/rcypankaj/Leetcode/tree/master/0756-pyramid-transition-matrix) |
 | [1980-find-unique-binary-string](https://github.com/rcypankaj/Leetcode/tree/master/1980-find-unique-binary-string) |
+| [2109-adding-spaces-to-a-string](https://github.com/rcypankaj/Leetcode/tree/master/2109-adding-spaces-to-a-string) |
 | [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/rcypankaj/Leetcode/tree/master/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [2405-optimal-partition-of-string](https://github.com/rcypankaj/Leetcode/tree/master/2405-optimal-partition-of-string) |
 ## Sliding Window
@@ -220,6 +223,7 @@ This repository contains leetcode problems and solutions.
 |  |
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/rcypankaj/Leetcode/tree/master/0059-spiral-matrix-ii) |
+| [2109-adding-spaces-to-a-string](https://github.com/rcypankaj/Leetcode/tree/master/2109-adding-spaces-to-a-string) |
 | [2766-relocate-marbles](https://github.com/rcypankaj/Leetcode/tree/master/2766-relocate-marbles) |
 | [2974-minimum-number-game](https://github.com/rcypankaj/Leetcode/tree/master/2974-minimum-number-game) |
 ## Prefix Sum
