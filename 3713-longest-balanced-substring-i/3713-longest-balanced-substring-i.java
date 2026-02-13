@@ -2,66 +2,39 @@ class Solution {
     public boolean isValid(String str) {
         int n = str.length();
         if (n <= 1) return true;
-        Map<Character, Integer> freq = new HashMap<>();
-        Set<Character> characters = new HashSet<>();
+        int[] freq = new int[26];
         for (int i = 0; i < n; i++) {
-            char currChar = str.charAt(i);
-            freq.put(currChar, freq.getOrDefault(currChar, 0)+1);
-            characters.add(currChar);
+            freq[str.charAt(i) - 'a']++;
         }
-        int defaultVal = freq.get(str.charAt(0));
-        for (Character ch : characters) {
-            if (freq.get(ch) != defaultVal) return false;
+        int min = Integer.MAX_VALUE;
+        int max = 0;
+        for (int i = 0; i < n; i++) {
+            min = Math.min(min, freq[str.charAt(i) - 'a']);
+            max = Math.max(max, freq[str.charAt(i) - 'a']);
         }
-        return true;
+        return min == max;
     }
     public int longestBalanced(String s) {
         int n = s.length();
-
-        // Transform char -> int
-        int[] a = new int[n];
-        for (int i = 0; i < n; i++) 
-            a[i] = s.charAt(i) - 'a';
-
-        int result = 0;
-        for (int l = 0; l < n; l++) {
-            // Early exit, can't be bigger
-            if (n - l <= result) 
-                break;
-
-            int[] cnt = new int[26]; // Counts of every char
-            int uniq = 0, maxfreq = 0; // Number of uniq chars and maximum frequency
-            for (int r = l; r < n; r++) {
-                int i = a[r];
-
-                // There was no this char before => one more uniq
-                if (cnt[i] == 0) 
-                    uniq++;
-
-                cnt[i]++;
-                // Update max frequency
-                if (cnt[i] > maxfreq) 
-                    maxfreq = cnt[i];
-
-                // Check if all uniq chars have maxfreq frequency then update the result
-                int cur = r - l + 1;
-                if (uniq * maxfreq == cur && cur > result)
-                    result = cur;
+        int maxLen = 0;
+        for (int i = 0; i < n; i++) {
+            int[] freq = new int[26];
+            for (int j = i; j < n; j++) {
+                char currChar = s.charAt(j);
+                freq[currChar-'a']++;
+                int min = Integer.MAX_VALUE;
+                int max = 0;
+                for (int k = 0; k < 26; k++) {
+                    if (freq[k] > 0) {
+                        min = Math.min(min, freq[k]);
+                        max = Math.max(max, freq[k]);
+                    }
+                }
+                if (min == max) {
+                    maxLen = Math.max(maxLen, j-i+1);
+                }
             }
         }
-        return result;
+        return maxLen;
     }
-    // public int longestBalanced(String s) {
-    //     int n = s.length();
-    //     int maxLen = 0;
-    //     for (int i = 0; i < n; i++) {
-    //         for (int j = i; j < n; j++) {
-    //             if (isValid(s.substring(i, j+1))) {
-    //                 maxLen = Math.max(maxLen, j-1+1);
-    //                 System.out.println(s.substring(i, j+1)+ " J: "+j+"I: "+i+ maxLen);
-    //             }
-    //         }
-    //     }
-    //     return maxLen;
-    // }
 }
