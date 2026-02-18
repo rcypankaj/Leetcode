@@ -1,5 +1,6 @@
 class Solution {
     public boolean isMagic(int[][] grid, int r, int c) {
+        if (grid[r+1][c+1] != 5) return false;
         boolean[] seen = new boolean[10];
         for (int i = r; i < r+3; i ++) {
             for (int j = c; j < c+3; j++) {
