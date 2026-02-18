@@ -2,7 +2,6 @@ class Solution {
     public boolean isMagic(int[][] grid, int r, int c) {
         boolean[] seen = new boolean[10];
 
-        // check digits 1..9 unique
         for (int i = r; i < r + 3; i++) {
             for (int j = c; j < c + 3; j++) {
                 int val = grid[i][j];
@@ -11,7 +10,6 @@ class Solution {
             }
         }
 
-        // check rows and columns
         for (int i = 0; i < 3; i++) {
 
             int rowSum = grid[r + i][c]
