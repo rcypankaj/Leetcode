@@ -83,6 +83,7 @@ This repository contains leetcode problems and solutions.
 | [0836-rectangle-overlap](https://github.com/rcypankaj/Leetcode/tree/master/0836-rectangle-overlap) |
 | [0840-magic-squares-in-grid](https://github.com/rcypankaj/Leetcode/tree/master/0840-magic-squares-in-grid) |
 | [2698-find-the-punishment-number-of-an-integer](https://github.com/rcypankaj/Leetcode/tree/master/2698-find-the-punishment-number-of-an-integer) |
+| [2864-maximum-odd-binary-number](https://github.com/rcypankaj/Leetcode/tree/master/2864-maximum-odd-binary-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -151,6 +152,7 @@ This repository contains leetcode problems and solutions.
 | [2109-adding-spaces-to-a-string](https://github.com/rcypankaj/Leetcode/tree/master/2109-adding-spaces-to-a-string) |
 | [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/rcypankaj/Leetcode/tree/master/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [2405-optimal-partition-of-string](https://github.com/rcypankaj/Leetcode/tree/master/2405-optimal-partition-of-string) |
+| [2864-maximum-odd-binary-number](https://github.com/rcypankaj/Leetcode/tree/master/2864-maximum-odd-binary-number) |
 | [3713-longest-balanced-substring-i](https://github.com/rcypankaj/Leetcode/tree/master/3713-longest-balanced-substring-i) |
 ## Sliding Window
 |  |
@@ -214,6 +216,7 @@ This repository contains leetcode problems and solutions.
 | [2241-design-an-atm-machine](https://github.com/rcypankaj/Leetcode/tree/master/2241-design-an-atm-machine) |
 | [2405-optimal-partition-of-string](https://github.com/rcypankaj/Leetcode/tree/master/2405-optimal-partition-of-string) |
 | [2856-minimum-array-length-after-pair-removals](https://github.com/rcypankaj/Leetcode/tree/master/2856-minimum-array-length-after-pair-removals) |
+| [2864-maximum-odd-binary-number](https://github.com/rcypankaj/Leetcode/tree/master/2864-maximum-odd-binary-number) |
 ## Queue
 |  |
 | ------- |
