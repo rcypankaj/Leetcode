@@ -37,6 +37,7 @@ This repository contains leetcode problems and solutions.
 | [0056-merge-intervals](https://github.com/rcypankaj/Leetcode/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/rcypankaj/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/rcypankaj/Leetcode/tree/master/0268-missing-number) |
+| [0761-special-binary-string](https://github.com/rcypankaj/Leetcode/tree/master/0761-special-binary-string) |
 | [2580-count-ways-to-group-overlapping-ranges](https://github.com/rcypankaj/Leetcode/tree/master/2580-count-ways-to-group-overlapping-ranges) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/rcypankaj/Leetcode/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 | [2766-relocate-marbles](https://github.com/rcypankaj/Leetcode/tree/master/2766-relocate-marbles) |
@@ -101,6 +102,7 @@ This repository contains leetcode problems and solutions.
 | ------- |
 | [0493-reverse-pairs](https://github.com/rcypankaj/Leetcode/tree/master/0493-reverse-pairs) |
 | [0558-logical-or-of-two-binary-grids-represented-as-quad-trees](https://github.com/rcypankaj/Leetcode/tree/master/0558-logical-or-of-two-binary-grids-represented-as-quad-trees) |
+| [0761-special-binary-string](https://github.com/rcypankaj/Leetcode/tree/master/0761-special-binary-string) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -148,6 +150,7 @@ This repository contains leetcode problems and solutions.
 | [0003-longest-substring-without-repeating-characters](https://github.com/rcypankaj/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0541-reverse-string-ii](https://github.com/rcypankaj/Leetcode/tree/master/0541-reverse-string-ii) |
 | [0756-pyramid-transition-matrix](https://github.com/rcypankaj/Leetcode/tree/master/0756-pyramid-transition-matrix) |
+| [0761-special-binary-string](https://github.com/rcypankaj/Leetcode/tree/master/0761-special-binary-string) |
 | [1980-find-unique-binary-string](https://github.com/rcypankaj/Leetcode/tree/master/1980-find-unique-binary-string) |
 | [2109-adding-spaces-to-a-string](https://github.com/rcypankaj/Leetcode/tree/master/2109-adding-spaces-to-a-string) |
 | [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/rcypankaj/Leetcode/tree/master/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
