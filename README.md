@@ -73,6 +73,7 @@ This repository contains leetcode problems and solutions.
 | [0287-find-the-duplicate-number](https://github.com/rcypankaj/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0693-binary-number-with-alternating-bits](https://github.com/rcypankaj/Leetcode/tree/master/0693-binary-number-with-alternating-bits) |
 | [0756-pyramid-transition-matrix](https://github.com/rcypankaj/Leetcode/tree/master/0756-pyramid-transition-matrix) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/rcypankaj/Leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 ## Math
 |  |
 | ------- |
@@ -80,6 +81,7 @@ This repository contains leetcode problems and solutions.
 | [0062-unique-paths](https://github.com/rcypankaj/Leetcode/tree/master/0062-unique-paths) |
 | [0264-ugly-number-ii](https://github.com/rcypankaj/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/rcypankaj/Leetcode/tree/master/0268-missing-number) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/rcypankaj/Leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0808-soup-servings](https://github.com/rcypankaj/Leetcode/tree/master/0808-soup-servings) |
 | [0836-rectangle-overlap](https://github.com/rcypankaj/Leetcode/tree/master/0836-rectangle-overlap) |
 | [0840-magic-squares-in-grid](https://github.com/rcypankaj/Leetcode/tree/master/0840-magic-squares-in-grid) |
