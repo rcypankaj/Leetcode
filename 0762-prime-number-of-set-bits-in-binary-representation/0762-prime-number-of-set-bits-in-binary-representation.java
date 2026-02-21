@@ -36,8 +36,10 @@ class Solution {
     public int countPrimeSetBits(int left, int right) {
         int res = 0;
         for (int i = left; i <= right; i++) {
-            int setBits = Integer.bitCount(i);
-            if (prime[setBits]) {
+            String binaryNum = toBinary(i);
+            boolean isPrime = isPrime(binaryNum);
+            if (isPrime) {
+                System.out.println("i: "+i);
                 res++;
             }
         }
