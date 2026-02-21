@@ -39,7 +39,6 @@ class Solution {
             String binaryNum = toBinary(i);
             boolean isPrime = isPrime(binaryNum);
             if (isPrime) {
-                System.out.println("i: "+i);
                 res++;
             }
         }
