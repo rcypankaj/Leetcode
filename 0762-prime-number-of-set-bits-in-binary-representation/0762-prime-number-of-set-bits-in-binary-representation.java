@@ -5,10 +5,12 @@ class Solution {
         Arrays.fill(prime, true);
         prime[0] = false;
         prime[1] = false;
+
+        int n = prime.length;
         
-        for (int i = 2; i * i < prime.length; i++) {
+        for (int i = 2; i * i <= n; i++) {
             if (prime[i]) {
-                for (int j = i * i; j < prime.length; j += i) {
+                for (int j = i * i; j < n; j += i) {
                     prime[j] = false;
                 }
             }
