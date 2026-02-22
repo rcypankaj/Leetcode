@@ -74,6 +74,7 @@ This repository contains leetcode problems and solutions.
 | [0693-binary-number-with-alternating-bits](https://github.com/rcypankaj/Leetcode/tree/master/0693-binary-number-with-alternating-bits) |
 | [0756-pyramid-transition-matrix](https://github.com/rcypankaj/Leetcode/tree/master/0756-pyramid-transition-matrix) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/rcypankaj/Leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [0868-binary-gap](https://github.com/rcypankaj/Leetcode/tree/master/0868-binary-gap) |
 ## Math
 |  |
 | ------- |
