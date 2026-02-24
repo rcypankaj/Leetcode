@@ -207,6 +207,7 @@ This repository contains leetcode problems and solutions.
 |  |
 | ------- |
 | [0558-logical-or-of-two-binary-grids-represented-as-quad-trees](https://github.com/rcypankaj/Leetcode/tree/master/0558-logical-or-of-two-binary-grids-represented-as-quad-trees) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/rcypankaj/Leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/rcypankaj/Leetcode/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Probability and Statistics
 |  |
@@ -268,6 +269,7 @@ This repository contains leetcode problems and solutions.
 ## Binary Tree
 |  |
 | ------- |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/rcypankaj/Leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/rcypankaj/Leetcode/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Enumeration
 |  |
@@ -285,4 +287,8 @@ This repository contains leetcode problems and solutions.
 |  |
 | ------- |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/rcypankaj/Leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+## Depth-First Search
+|  |
+| ------- |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/rcypankaj/Leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 <!---LeetCode Topics End-->
