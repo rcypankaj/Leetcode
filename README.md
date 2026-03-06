@@ -143,6 +143,7 @@ This repository contains leetcode problems and solutions.
 | [0128-longest-consecutive-sequence](https://github.com/rcypankaj/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/rcypankaj/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/rcypankaj/Leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/rcypankaj/Leetcode/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/rcypankaj/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0264-ugly-number-ii](https://github.com/rcypankaj/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/rcypankaj/Leetcode/tree/master/0268-missing-number) |
@@ -194,6 +195,7 @@ This repository contains leetcode problems and solutions.
 | [0061-rotate-list](https://github.com/rcypankaj/Leetcode/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/rcypankaj/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/rcypankaj/Leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/rcypankaj/Leetcode/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/rcypankaj/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/rcypankaj/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/rcypankaj/Leetcode/tree/master/0234-palindrome-linked-list) |
@@ -304,6 +306,7 @@ This repository contains leetcode problems and solutions.
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/rcypankaj/Leetcode/tree/master/0146-lru-cache) |
 | [2241-design-an-atm-machine](https://github.com/rcypankaj/Leetcode/tree/master/2241-design-an-atm-machine) |
 ## Rolling Hash
 |  |
@@ -321,4 +324,8 @@ This repository contains leetcode problems and solutions.
 |  |
 | ------- |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/rcypankaj/Leetcode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/rcypankaj/Leetcode/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
