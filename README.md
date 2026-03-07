@@ -106,6 +106,7 @@ This repository contains leetcode problems and solutions.
 | [0264-ugly-number-ii](https://github.com/rcypankaj/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0746-min-cost-climbing-stairs](https://github.com/rcypankaj/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0808-soup-servings](https://github.com/rcypankaj/Leetcode/tree/master/0808-soup-servings) |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/rcypankaj/Leetcode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 ## Combinatorics
 |  |
 | ------- |
@@ -173,6 +174,7 @@ This repository contains leetcode problems and solutions.
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/rcypankaj/Leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/rcypankaj/Leetcode/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/rcypankaj/Leetcode/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/rcypankaj/Leetcode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1980-find-unique-binary-string](https://github.com/rcypankaj/Leetcode/tree/master/1980-find-unique-binary-string) |
 | [2109-adding-spaces-to-a-string](https://github.com/rcypankaj/Leetcode/tree/master/2109-adding-spaces-to-a-string) |
 | [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/rcypankaj/Leetcode/tree/master/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
@@ -185,6 +187,7 @@ This repository contains leetcode problems and solutions.
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rcypankaj/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1703-minimum-adjacent-swaps-for-k-consecutive-ones](https://github.com/rcypankaj/Leetcode/tree/master/1703-minimum-adjacent-swaps-for-k-consecutive-ones) |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/rcypankaj/Leetcode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2762-continuous-subarrays](https://github.com/rcypankaj/Leetcode/tree/master/2762-continuous-subarrays) |
 ## Linked List
 |  |
