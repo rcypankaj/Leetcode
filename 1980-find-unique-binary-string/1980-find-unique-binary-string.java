@@ -1,27 +1,15 @@
 class Solution {
-    int n;
-    Set<String> numsSet = new HashSet();
-    private String generate(String curr) {
-        if (curr.length() == n) {
-            if (!numsSet.contains(curr)) {
-                return curr;
-            }
-            return "";
-        }
-        String addZero = generate(curr + "0");
-        if (addZero.length() > 0) {
-            return addZero;
-        }
-        
-        return generate(curr + "1");
-    }
-    
     public String findDifferentBinaryString(String[] nums) {
-        n = nums.length;
-        for (String s : nums) {
-            numsSet.add(s);
+        Set<Integer> set = new HashSet<>();
+
+        int n = nums.length;
+        for (int i = 0; i < n; i++) {
+            set.add(Integer.parseInt(nums[i], 2));
         }
-        
-        return generate("");
+
+        for (int i = 0; i <= n; i++) {
+            if (!set.contains(i)) return String.format("%"+nums[0].length()+"s", Integer.toBinaryString(i)).replace(" ", "0");
+        }
+        return "-1";
     }
 }
