@@ -108,6 +108,7 @@ This repository contains leetcode problems and solutions.
 | [0808-soup-servings](https://github.com/rcypankaj/Leetcode/tree/master/0808-soup-servings) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/rcypankaj/Leetcode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/rcypankaj/Leetcode/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
+| [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/rcypankaj/Leetcode/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 ## Combinatorics
 |  |
 | ------- |
@@ -287,6 +288,7 @@ This repository contains leetcode problems and solutions.
 | ------- |
 | [1703-minimum-adjacent-swaps-for-k-consecutive-ones](https://github.com/rcypankaj/Leetcode/tree/master/1703-minimum-adjacent-swaps-for-k-consecutive-ones) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/rcypankaj/Leetcode/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
+| [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/rcypankaj/Leetcode/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 ## Counting
 |  |
 | ------- |
