@@ -33,6 +33,7 @@ This repository contains leetcode problems and solutions.
 | [2856-minimum-array-length-after-pair-removals](https://github.com/rcypankaj/Leetcode/tree/master/2856-minimum-array-length-after-pair-removals) |
 | [2903-find-indices-with-index-and-value-difference-i](https://github.com/rcypankaj/Leetcode/tree/master/2903-find-indices-with-index-and-value-difference-i) |
 | [2974-minimum-number-game](https://github.com/rcypankaj/Leetcode/tree/master/2974-minimum-number-game) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/rcypankaj/Leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Sorting
 |  |
 | ------- |
@@ -70,6 +71,7 @@ This repository contains leetcode problems and solutions.
 | [0287-find-the-duplicate-number](https://github.com/rcypankaj/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0493-reverse-pairs](https://github.com/rcypankaj/Leetcode/tree/master/0493-reverse-pairs) |
 | [2856-minimum-array-length-after-pair-removals](https://github.com/rcypankaj/Leetcode/tree/master/2856-minimum-array-length-after-pair-removals) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/rcypankaj/Leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/rcypankaj/Leetcode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Bit Manipulation
 |  |
@@ -99,6 +101,7 @@ This repository contains leetcode problems and solutions.
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/rcypankaj/Leetcode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2698-find-the-punishment-number-of-an-integer](https://github.com/rcypankaj/Leetcode/tree/master/2698-find-the-punishment-number-of-an-integer) |
 | [2864-maximum-odd-binary-number](https://github.com/rcypankaj/Leetcode/tree/master/2864-maximum-odd-binary-number) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/rcypankaj/Leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/rcypankaj/Leetcode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Dynamic Programming
 |  |
@@ -225,6 +228,7 @@ This repository contains leetcode problems and solutions.
 | [0264-ugly-number-ii](https://github.com/rcypankaj/Leetcode/tree/master/0264-ugly-number-ii) |
 | [2762-continuous-subarrays](https://github.com/rcypankaj/Leetcode/tree/master/2762-continuous-subarrays) |
 | [2974-minimum-number-game](https://github.com/rcypankaj/Leetcode/tree/master/2974-minimum-number-game) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/rcypankaj/Leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Database
 |  |
 | ------- |
@@ -255,6 +259,7 @@ This repository contains leetcode problems and solutions.
 | [2405-optimal-partition-of-string](https://github.com/rcypankaj/Leetcode/tree/master/2405-optimal-partition-of-string) |
 | [2856-minimum-array-length-after-pair-removals](https://github.com/rcypankaj/Leetcode/tree/master/2856-minimum-array-length-after-pair-removals) |
 | [2864-maximum-odd-binary-number](https://github.com/rcypankaj/Leetcode/tree/master/2864-maximum-odd-binary-number) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/rcypankaj/Leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/rcypankaj/Leetcode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Queue
 |  |
