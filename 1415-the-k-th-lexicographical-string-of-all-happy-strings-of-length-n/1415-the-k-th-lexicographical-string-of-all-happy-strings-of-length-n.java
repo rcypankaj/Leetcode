@@ -16,8 +16,16 @@ class Solution {
         return "";
     }
     public String getHappyString(int n, int k) {
-        int possibleStr = 3*(int)Math.pow(2, n-1);
-        System.out.println(possibleStr);
-        return findStr("", n, new int[]{k});
+                int block = 1 << (n - 1); // total strings in each first-character block
+                if (block*3 < k) return "";
+        int startCharIdx = (k - 1) / block; // 0 -> 'a', 1 -> 'b', 2 -> 'c'
+        char firstChar = arr[startCharIdx];
+
+        // Adjust k for the remaining recursion
+        int newK = k - startCharIdx * block;
+
+        // Start recursion with first character fixed
+        return findStr(firstChar + "", n, new int[]{newK});
+
     }
 }
