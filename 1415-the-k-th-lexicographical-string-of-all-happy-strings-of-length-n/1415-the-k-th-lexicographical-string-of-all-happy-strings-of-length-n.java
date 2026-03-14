@@ -1,6 +1,6 @@
 class Solution {
-    static String ans = "";
-    char[] arr = new char[]{'a', 'b', 'c'};
+    private String ans = "";
+    private final char[] arr = new char[]{'a', 'b', 'c'};
     public void findStr(String curr, int n, int[] k) {
         if (!ans.isEmpty()) return;
 
@@ -10,9 +10,9 @@ class Solution {
             return;
         }
 
-        for (int i = 0; i < 3; i++) {
-            if (curr.isEmpty() || curr.charAt(curr.length()-1) != arr[i]) {
-                findStr(curr+arr[i], n, k);
+        for (char ch : arr) {
+            if (curr.isEmpty() || curr.charAt(curr.length()-1) != ch) {
+                findStr(curr+ch, n, k);
             }
         }
     }
