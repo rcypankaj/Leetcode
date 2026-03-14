@@ -16,16 +16,10 @@ class Solution {
         return "";
     }
     public String getHappyString(int n, int k) {
-                int block = 1 << (n - 1); // total strings in each first-character block
-                if (block*3 < k) return "";
-        int startCharIdx = (k - 1) / block; // 0 -> 'a', 1 -> 'b', 2 -> 'c'
-        char firstChar = arr[startCharIdx];
-
-        // Adjust k for the remaining recursion
-        int newK = k - startCharIdx * block;
-
-        // Start recursion with first character fixed
-        return findStr(firstChar + "", n, new int[]{newK});
-
+        int block = 1 << (n-1);
+        if (block*3 < k) return "";
+        int startIdx = (k-1)/block;
+        int newK = k- (startIdx*block);
+        return findStr(arr[startIdx]+"", n, new int[]{newK});
     }
 }
