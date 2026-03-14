@@ -1,25 +1,47 @@
 class Solution {
     private final char[] arr = {'a', 'b', 'c'};
-    public String findStr(String curr, int n, int[] k) {
-        if (curr.length() == n) {
-            k[0]--;
-            if (k[0] == 0) return curr;
-            return "";
+
+    public String getHappyString(int n, int k) {
+        int total = 3 << (n - 1);
+        if (k > total) return "";
+        StringBuilder sb = new StringBuilder();
+        int block = 1 << (n - 1);
+
+        int firstCharIdx = (k - 1) / block;
+        sb.append(arr[firstCharIdx]);
+        k -= firstCharIdx * block;
+
+        char prev = sb.charAt(0);
+        
+        for (int i = 1; i < n; i++) {
+            block /= 2;
+            char nextChar = (k <= block) ? getFirstChoice(prev) : getSecondChoice(prev);
+            if (k > block) k -= block;
+            sb.append(nextChar);
+            prev = nextChar;
         }
 
+        return sb.toString();
+    }
+
+    
+    private char getFirstChoice(char prev) {
+        for (char ch : arr) if (ch != prev) return ch;
+        return ' ';
+    }
+
+    
+    private char getSecondChoice(char prev) {
+        boolean firstSkipped = false;
         for (char ch : arr) {
-            if (curr.isEmpty() || curr.charAt(curr.length()-1) != ch) {
-                String ans = findStr(curr+ch, n, k);
-                if (!ans.isEmpty()) return ans;
+            if (ch != prev) {
+                if (!firstSkipped) {
+                    firstSkipped = true;
+                } else {
+                    return ch;
+                }
             }
         }
-        return "";
-    }
-    public String getHappyString(int n, int k) {
-        int block = 1 << (n-1);
-        if (block*3 < k) return "";
-        int startIdx = (k-1)/block;
-        int newK = k- (startIdx*block);
-        return findStr(arr[startIdx]+"", n, new int[]{newK});
+        return ' ';
     }
 }
