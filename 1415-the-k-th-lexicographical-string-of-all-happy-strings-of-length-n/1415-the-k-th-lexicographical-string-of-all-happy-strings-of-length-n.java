@@ -1,5 +1,5 @@
 class Solution {
-    private final char[] arr = new char[]{'a', 'b', 'c'};
+    private final char[] arr = {'a', 'b', 'c'};
     public String findStr(String curr, int n, int[] k) {
         if (curr.length() == n) {
             k[0]--;
@@ -16,6 +16,8 @@ class Solution {
         return "";
     }
     public String getHappyString(int n, int k) {
+        int possibleStr = 3*(int)Math.pow(2, n-1);
+        System.out.println(possibleStr);
         return findStr("", n, new int[]{k});
     }
 }
