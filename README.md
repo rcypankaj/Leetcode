@@ -98,6 +98,7 @@ This repository contains leetcode problems and solutions.
 | [0808-soup-servings](https://github.com/rcypankaj/Leetcode/tree/master/0808-soup-servings) |
 | [0836-rectangle-overlap](https://github.com/rcypankaj/Leetcode/tree/master/0836-rectangle-overlap) |
 | [0840-magic-squares-in-grid](https://github.com/rcypankaj/Leetcode/tree/master/0840-magic-squares-in-grid) |
+| [1622-fancy-sequence](https://github.com/rcypankaj/Leetcode/tree/master/1622-fancy-sequence) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/rcypankaj/Leetcode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2698-find-the-punishment-number-of-an-integer](https://github.com/rcypankaj/Leetcode/tree/master/2698-find-the-punishment-number-of-an-integer) |
 | [2864-maximum-odd-binary-number](https://github.com/rcypankaj/Leetcode/tree/master/2864-maximum-odd-binary-number) |
@@ -132,6 +133,7 @@ This repository contains leetcode problems and solutions.
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/rcypankaj/Leetcode/tree/master/0493-reverse-pairs) |
+| [1622-fancy-sequence](https://github.com/rcypankaj/Leetcode/tree/master/1622-fancy-sequence) |
 ## Merge Sort
 |  |
 | ------- |
@@ -324,6 +326,7 @@ This repository contains leetcode problems and solutions.
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/rcypankaj/Leetcode/tree/master/0146-lru-cache) |
+| [1622-fancy-sequence](https://github.com/rcypankaj/Leetcode/tree/master/1622-fancy-sequence) |
 | [2241-design-an-atm-machine](https://github.com/rcypankaj/Leetcode/tree/master/2241-design-an-atm-machine) |
 ## Rolling Hash
 |  |
