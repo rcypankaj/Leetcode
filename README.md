@@ -24,6 +24,7 @@ This repository contains leetcode problems and solutions.
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/rcypankaj/Leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/rcypankaj/Leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1703-minimum-adjacent-swaps-for-k-consecutive-ones](https://github.com/rcypankaj/Leetcode/tree/master/1703-minimum-adjacent-swaps-for-k-consecutive-ones) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/rcypankaj/Leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/rcypankaj/Leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1980-find-unique-binary-string](https://github.com/rcypankaj/Leetcode/tree/master/1980-find-unique-binary-string) |
 | [2109-adding-spaces-to-a-string](https://github.com/rcypankaj/Leetcode/tree/master/2109-adding-spaces-to-a-string) |
@@ -44,6 +45,7 @@ This repository contains leetcode problems and solutions.
 | [0268-missing-number](https://github.com/rcypankaj/Leetcode/tree/master/0268-missing-number) |
 | [0761-special-binary-string](https://github.com/rcypankaj/Leetcode/tree/master/0761-special-binary-string) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/rcypankaj/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/rcypankaj/Leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/rcypankaj/Leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2580-count-ways-to-group-overlapping-ranges](https://github.com/rcypankaj/Leetcode/tree/master/2580-count-ways-to-group-overlapping-ranges) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/rcypankaj/Leetcode/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
@@ -263,6 +265,7 @@ This repository contains leetcode problems and solutions.
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/rcypankaj/Leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/rcypankaj/Leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1703-minimum-adjacent-swaps-for-k-consecutive-ones](https://github.com/rcypankaj/Leetcode/tree/master/1703-minimum-adjacent-swaps-for-k-consecutive-ones) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/rcypankaj/Leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [2241-design-an-atm-machine](https://github.com/rcypankaj/Leetcode/tree/master/2241-design-an-atm-machine) |
 | [2405-optimal-partition-of-string](https://github.com/rcypankaj/Leetcode/tree/master/2405-optimal-partition-of-string) |
 | [2856-minimum-array-length-after-pair-removals](https://github.com/rcypankaj/Leetcode/tree/master/2856-minimum-array-length-after-pair-removals) |
@@ -289,6 +292,7 @@ This repository contains leetcode problems and solutions.
 | [0840-magic-squares-in-grid](https://github.com/rcypankaj/Leetcode/tree/master/0840-magic-squares-in-grid) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/rcypankaj/Leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/rcypankaj/Leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/rcypankaj/Leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/rcypankaj/Leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 ## Simulation
 |  |
