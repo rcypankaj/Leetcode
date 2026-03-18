@@ -35,6 +35,7 @@ This repository contains leetcode problems and solutions.
 | [2856-minimum-array-length-after-pair-removals](https://github.com/rcypankaj/Leetcode/tree/master/2856-minimum-array-length-after-pair-removals) |
 | [2903-find-indices-with-index-and-value-difference-i](https://github.com/rcypankaj/Leetcode/tree/master/2903-find-indices-with-index-and-value-difference-i) |
 | [2974-minimum-number-game](https://github.com/rcypankaj/Leetcode/tree/master/2974-minimum-number-game) |
+| [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/rcypankaj/Leetcode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/rcypankaj/Leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Sorting
 |  |
@@ -294,6 +295,7 @@ This repository contains leetcode problems and solutions.
 | [1582-special-positions-in-a-binary-matrix](https://github.com/rcypankaj/Leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/rcypankaj/Leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/rcypankaj/Leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/rcypankaj/Leetcode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 ## Simulation
 |  |
 | ------- |
@@ -309,6 +311,7 @@ This repository contains leetcode problems and solutions.
 | ------- |
 | [1703-minimum-adjacent-swaps-for-k-consecutive-ones](https://github.com/rcypankaj/Leetcode/tree/master/1703-minimum-adjacent-swaps-for-k-consecutive-ones) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/rcypankaj/Leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/rcypankaj/Leetcode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/rcypankaj/Leetcode/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/rcypankaj/Leetcode/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 ## Counting
