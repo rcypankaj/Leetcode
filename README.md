@@ -36,6 +36,7 @@ This repository contains leetcode problems and solutions.
 | [2903-find-indices-with-index-and-value-difference-i](https://github.com/rcypankaj/Leetcode/tree/master/2903-find-indices-with-index-and-value-difference-i) |
 | [2974-minimum-number-game](https://github.com/rcypankaj/Leetcode/tree/master/2974-minimum-number-game) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/rcypankaj/Leetcode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
+| [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/rcypankaj/Leetcode/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/rcypankaj/Leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Sorting
 |  |
@@ -296,6 +297,7 @@ This repository contains leetcode problems and solutions.
 | [1727-largest-submatrix-with-rearrangements](https://github.com/rcypankaj/Leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/rcypankaj/Leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/rcypankaj/Leetcode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
+| [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/rcypankaj/Leetcode/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 ## Simulation
 |  |
 | ------- |
@@ -314,6 +316,7 @@ This repository contains leetcode problems and solutions.
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/rcypankaj/Leetcode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/rcypankaj/Leetcode/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/rcypankaj/Leetcode/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
+| [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/rcypankaj/Leetcode/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 ## Counting
 |  |
 | ------- |
