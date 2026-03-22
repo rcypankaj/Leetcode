@@ -22,17 +22,9 @@ class Solution {
     }
     public boolean findRotation(int[][] mat, int[][] target) {
         int n = mat.length;
-        int[][] arr = new int[n][n];
-
-        for (int i = 0; i < n; i++) {
-            for (int j = 0; j < n; j++) {
-                arr[i][j] = mat[i][j];
-            }
-        }
-
         for (int i = 0; i < 4; i++) {
-            if (isEqual(arr, target)) return true;
-            rotate90(arr);
+            if (isEqual(mat, target)) return true;
+            rotate90(mat);
         }
         return false;
     }
