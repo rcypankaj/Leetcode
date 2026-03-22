@@ -1,5 +1,5 @@
 class Solution {
-    private void roate90(int[][] mat) {
+    private void rotate90(int[][] mat) {
         int n = mat.length;
         int[][] arr = new int[n][n];
         for (int i = 0; i < n; i++) {
@@ -32,10 +32,9 @@ class Solution {
             }
         }
 
-        int noOfTimeRotate = 4;
-        while (noOfTimeRotate-- > 0) {
-            roate90(arr);
+        for (int i = 0; i < 4; i++) {
             if (isEqual(arr, target)) return true;
+            rotate90(arr);
         }
         return false;
     }
