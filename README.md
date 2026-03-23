@@ -23,6 +23,7 @@ This repository contains leetcode problems and solutions.
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/rcypankaj/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/rcypankaj/Leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/rcypankaj/Leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/rcypankaj/Leetcode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1703-minimum-adjacent-swaps-for-k-consecutive-ones](https://github.com/rcypankaj/Leetcode/tree/master/1703-minimum-adjacent-swaps-for-k-consecutive-ones) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/rcypankaj/Leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/rcypankaj/Leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
@@ -124,6 +125,7 @@ This repository contains leetcode problems and solutions.
 | [0264-ugly-number-ii](https://github.com/rcypankaj/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0746-min-cost-climbing-stairs](https://github.com/rcypankaj/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0808-soup-servings](https://github.com/rcypankaj/Leetcode/tree/master/0808-soup-servings) |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/rcypankaj/Leetcode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/rcypankaj/Leetcode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/rcypankaj/Leetcode/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/rcypankaj/Leetcode/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
@@ -299,6 +301,7 @@ This repository contains leetcode problems and solutions.
 | [0840-magic-squares-in-grid](https://github.com/rcypankaj/Leetcode/tree/master/0840-magic-squares-in-grid) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/rcypankaj/Leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/rcypankaj/Leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/rcypankaj/Leetcode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/rcypankaj/Leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/rcypankaj/Leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/rcypankaj/Leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
