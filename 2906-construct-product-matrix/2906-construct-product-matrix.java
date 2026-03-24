@@ -29,7 +29,7 @@ class Solution {
         idx = 0;
         for (int i = 0; i < n; i++) {
             for (int j = 0; j < m; j++) {
-                res[i][j] = (prefix[idx] * suffix[idx])%MOD;
+                res[i][j] = (int)((long)prefix[idx] * suffix[idx])%MOD;
                 idx++;
             }
         }
