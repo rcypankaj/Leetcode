@@ -8,7 +8,6 @@ class Solution {
                 int newIdx = -1;
                 if ((j&1) == 1) newIdx = (j-k+m)%m;
                 else newIdx = (j+k)%m;
-                System.out.println("J"+j+ "newIdx" +newIdx);
                 if (mat[i][newIdx] != mat[i][j]) return false;
             }
         }
