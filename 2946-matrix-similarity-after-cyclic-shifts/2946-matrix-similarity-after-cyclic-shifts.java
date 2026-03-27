@@ -31,7 +31,6 @@ class Solution {
                 else leftShift(arr, i);
             }
         for (int i = 0; i < n; i++) {
-            System.out.println("MAT:- "+Arrays.toString(mat[i])+ "ARR:-"+Arrays.toString(arr[i]));
             for (int j = 0; j < m; j++) {
                 if (mat[i][j] != arr[i][j]) return false;
             }
