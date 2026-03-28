@@ -110,6 +110,7 @@ This repository contains leetcode problems and solutions.
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/rcypankaj/Leetcode/tree/master/0002-add-two-numbers) |
+| [0007-reverse-integer](https://github.com/rcypankaj/Leetcode/tree/master/0007-reverse-integer) |
 | [0062-unique-paths](https://github.com/rcypankaj/Leetcode/tree/master/0062-unique-paths) |
 | [0264-ugly-number-ii](https://github.com/rcypankaj/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/rcypankaj/Leetcode/tree/master/0268-missing-number) |
