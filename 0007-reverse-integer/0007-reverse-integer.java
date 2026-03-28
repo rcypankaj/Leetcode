@@ -4,12 +4,12 @@ class Solution {
 
         String str = Integer.toString(Math.abs(x));
         StringBuilder sb = new StringBuilder(str);
-        sb.reverse();
+        sb = sb.reverse();
         try {
             int result = Integer.parseInt(sb.toString());
-            return isNegative ? -result : result;
-        } catch (NumberFormatException e) {
-            return 0; // overflow case
+            return isNegative ? -result: result;
+        } catch(NumberFormatException e) {
+            return 0;
         }
     }
 }
