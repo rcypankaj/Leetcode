@@ -4,7 +4,9 @@ class Solution {
         int res = Integer.MAX_VALUE;
         for (int i = 0; i < n; i++) {
             if (nums[i] == target) {
-                res = Math.min(res, Math.abs(i-start));
+                int dist = Math.abs(i-start);
+                if (dist == 0) return 0;
+                res = Math.min(res, dist);
             }
         }
         return res;
