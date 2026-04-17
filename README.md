@@ -56,6 +56,7 @@ This repository contains leetcode problems and solutions.
 | [3643-flip-square-submatrix-vertically](https://github.com/rcypankaj/Leetcode/tree/master/3643-flip-square-submatrix-vertically) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/rcypankaj/Leetcode/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/rcypankaj/Leetcode/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/rcypankaj/Leetcode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## Sorting
 |  |
 | ------- |
@@ -140,6 +141,7 @@ This repository contains leetcode problems and solutions.
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/rcypankaj/Leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/rcypankaj/Leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/rcypankaj/Leetcode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/rcypankaj/Leetcode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -213,6 +215,7 @@ This repository contains leetcode problems and solutions.
 | [3548-equal-sum-grid-partition-ii](https://github.com/rcypankaj/Leetcode/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3713-longest-balanced-substring-i](https://github.com/rcypankaj/Leetcode/tree/master/3713-longest-balanced-substring-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/rcypankaj/Leetcode/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/rcypankaj/Leetcode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## Union Find
 |  |
 | ------- |
