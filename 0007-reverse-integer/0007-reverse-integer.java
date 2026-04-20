@@ -1,15 +1,15 @@
 class Solution {
     public int reverse(int x) {
-        boolean isNegative = x < 0;
+        int res = 0;
+        int val = Math.abs(x);
+        while (val > 0) {
+            int rem = val%10;
+            val /= 10;
+            if (res > Integer.MAX_VALUE/10 || res < Integer.MIN_VALUE/10) 
+                return 0;
 
-        String str = Integer.toString(Math.abs(x));
-        StringBuilder sb = new StringBuilder(str);
-        sb = sb.reverse();
-        try {
-            int result = Integer.parseInt(sb.toString());
-            return isNegative ? -result: result;
-        } catch(NumberFormatException e) {
-            return 0;
+            res = (res*10)+rem;
         }
+        return x < 0 ? -res : res;
     }
 }
