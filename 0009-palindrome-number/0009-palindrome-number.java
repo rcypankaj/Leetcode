@@ -1,16 +1,16 @@
 class Solution {
     public boolean isPalindrome(int x) {
         if (x < 0) return false;
-        int divisor = 1;
-        while (x/divisor >= 10) {
-            divisor *= 10;
+        
+        int rev = 0;
+        int xCopy = x;
+        while (xCopy != 0) {
+            int rem = xCopy%10;
+            // if (rev > Integer.MAX_VALUE/10 || rev < Integer.MIN_VALUE) return false;
+            rev = (rev*10) + rem;
+            xCopy /= 10;
         }
-        while (x != 0) {
-            if (x/divisor != x%10) return false;
-
-            x = (x%divisor)/10;
-            divisor /= 100;
-        }
-        return true;
+        System.out.println(rev+" "+x);
+        return rev == x;
     }
 }
