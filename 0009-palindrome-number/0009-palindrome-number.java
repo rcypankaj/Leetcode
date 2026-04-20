@@ -1,11 +1,19 @@
 class Solution {
     public boolean isPalindrome(int x) {
-        String str = Integer.toString(x);
-        int left = 0, right = str.length()-1;
-        while (left < right) {
-            if (str.charAt(left) != str.charAt(right)) return false;
-            left++;
-            right--;
+        if (x < 0) return false;
+
+        int divisor = 1;
+        while (x/divisor >= 10) {
+            divisor *= 10;
+        }
+
+        System.out.println(divisor);
+
+        while (x != 0) {
+            if (x/divisor != x%10) return false;
+
+            x = (x%divisor)/10;
+            divisor /= 100;
         }
         return true;
     }
