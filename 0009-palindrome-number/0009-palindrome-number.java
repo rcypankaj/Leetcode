@@ -6,11 +6,9 @@ class Solution {
         int xCopy = x;
         while (xCopy != 0) {
             int rem = xCopy%10;
-            // if (rev > Integer.MAX_VALUE/10 || rev < Integer.MIN_VALUE) return false;
             rev = (rev*10) + rem;
             xCopy /= 10;
         }
-        System.out.println(rev+" "+x);
         return rev == x;
     }
 }
