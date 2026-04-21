@@ -26,6 +26,7 @@ This repository contains leetcode problems and solutions.
 | [1582-special-positions-in-a-binary-matrix](https://github.com/rcypankaj/Leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/rcypankaj/Leetcode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1703-minimum-adjacent-swaps-for-k-consecutive-ones](https://github.com/rcypankaj/Leetcode/tree/master/1703-minimum-adjacent-swaps-for-k-consecutive-ones) |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/rcypankaj/Leetcode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/rcypankaj/Leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/rcypankaj/Leetcode/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/rcypankaj/Leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
@@ -436,9 +437,11 @@ This repository contains leetcode problems and solutions.
 |  |
 | ------- |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/rcypankaj/Leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/rcypankaj/Leetcode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 ## Union-Find
 |  |
 | ------- |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/rcypankaj/Leetcode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [2573-find-the-string-with-lcp](https://github.com/rcypankaj/Leetcode/tree/master/2573-find-the-string-with-lcp) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/rcypankaj/Leetcode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/rcypankaj/Leetcode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
