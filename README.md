@@ -120,6 +120,7 @@ This repository contains leetcode problems and solutions.
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/rcypankaj/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/rcypankaj/Leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/rcypankaj/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0693-binary-number-with-alternating-bits](https://github.com/rcypankaj/Leetcode/tree/master/0693-binary-number-with-alternating-bits) |
@@ -138,6 +139,7 @@ This repository contains leetcode problems and solutions.
 | [0007-reverse-integer](https://github.com/rcypankaj/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/rcypankaj/Leetcode/tree/master/0009-palindrome-number) |
 | [0062-unique-paths](https://github.com/rcypankaj/Leetcode/tree/master/0062-unique-paths) |
+| [0231-power-of-two](https://github.com/rcypankaj/Leetcode/tree/master/0231-power-of-two) |
 | [0264-ugly-number-ii](https://github.com/rcypankaj/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/rcypankaj/Leetcode/tree/master/0268-missing-number) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/rcypankaj/Leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
@@ -293,6 +295,7 @@ This repository contains leetcode problems and solutions.
 | [0002-add-two-numbers](https://github.com/rcypankaj/Leetcode/tree/master/0002-add-two-numbers) |
 | [0025-reverse-nodes-in-k-group](https://github.com/rcypankaj/Leetcode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/rcypankaj/Leetcode/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/rcypankaj/Leetcode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/rcypankaj/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/rcypankaj/Leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 ## Stack
