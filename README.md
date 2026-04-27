@@ -22,6 +22,7 @@ This repository contains leetcode problems and solutions.
 | [0746-min-cost-climbing-stairs](https://github.com/rcypankaj/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0840-magic-squares-in-grid](https://github.com/rcypankaj/Leetcode/tree/master/0840-magic-squares-in-grid) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/rcypankaj/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/rcypankaj/Leetcode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/rcypankaj/Leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/rcypankaj/Leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/rcypankaj/Leetcode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
@@ -379,6 +380,7 @@ This repository contains leetcode problems and solutions.
 | [0059-spiral-matrix-ii](https://github.com/rcypankaj/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/rcypankaj/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0840-magic-squares-in-grid](https://github.com/rcypankaj/Leetcode/tree/master/0840-magic-squares-in-grid) |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/rcypankaj/Leetcode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/rcypankaj/Leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/rcypankaj/Leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/rcypankaj/Leetcode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
@@ -433,6 +435,7 @@ This repository contains leetcode problems and solutions.
 ## Breadth-First Search
 |  |
 | ------- |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/rcypankaj/Leetcode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/rcypankaj/Leetcode/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/rcypankaj/Leetcode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Binary Tree
@@ -465,10 +468,12 @@ This repository contains leetcode problems and solutions.
 |  |
 | ------- |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/rcypankaj/Leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/rcypankaj/Leetcode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/rcypankaj/Leetcode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 ## Union-Find
 |  |
 | ------- |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/rcypankaj/Leetcode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/rcypankaj/Leetcode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [2573-find-the-string-with-lcp](https://github.com/rcypankaj/Leetcode/tree/master/2573-find-the-string-with-lcp) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/rcypankaj/Leetcode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
