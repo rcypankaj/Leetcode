@@ -8,9 +8,7 @@ class Solution {
             Arrays.sort(strArr);
             String sortedStr = new String(strArr);
             if (map.containsKey(sortedStr)) {
-                List<String> list = map.get(sortedStr);
-                list.add(strs[i]);
-                map.put(sortedStr, list);
+                map.get(sortedStr).add(strs[i]);
             } else {
                 List<String> list = new ArrayList<>();
                 list.add(strs[i]);
