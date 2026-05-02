@@ -17,6 +17,7 @@ This repository contains leetcode problems and solutions.
 | [0118-pascals-triangle](https://github.com/rcypankaj/Leetcode/tree/master/0118-pascals-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/rcypankaj/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/rcypankaj/Leetcode/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/rcypankaj/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/rcypankaj/Leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/rcypankaj/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0396-rotate-function](https://github.com/rcypankaj/Leetcode/tree/master/0396-rotate-function) |
@@ -433,6 +434,7 @@ This repository contains leetcode problems and solutions.
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/rcypankaj/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [1703-minimum-adjacent-swaps-for-k-consecutive-ones](https://github.com/rcypankaj/Leetcode/tree/master/1703-minimum-adjacent-swaps-for-k-consecutive-ones) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/rcypankaj/Leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2615-sum-of-distances](https://github.com/rcypankaj/Leetcode/tree/master/2615-sum-of-distances) |
