@@ -156,6 +156,7 @@ This repository contains leetcode problems and solutions.
 | [0396-rotate-function](https://github.com/rcypankaj/Leetcode/tree/master/0396-rotate-function) |
 | [0509-fibonacci-number](https://github.com/rcypankaj/Leetcode/tree/master/0509-fibonacci-number) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/rcypankaj/Leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [0788-rotated-digits](https://github.com/rcypankaj/Leetcode/tree/master/0788-rotated-digits) |
 | [0808-soup-servings](https://github.com/rcypankaj/Leetcode/tree/master/0808-soup-servings) |
 | [0836-rectangle-overlap](https://github.com/rcypankaj/Leetcode/tree/master/0836-rectangle-overlap) |
 | [0840-magic-squares-in-grid](https://github.com/rcypankaj/Leetcode/tree/master/0840-magic-squares-in-grid) |
@@ -180,6 +181,7 @@ This repository contains leetcode problems and solutions.
 | [0396-rotate-function](https://github.com/rcypankaj/Leetcode/tree/master/0396-rotate-function) |
 | [0509-fibonacci-number](https://github.com/rcypankaj/Leetcode/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/rcypankaj/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
+| [0788-rotated-digits](https://github.com/rcypankaj/Leetcode/tree/master/0788-rotated-digits) |
 | [0808-soup-servings](https://github.com/rcypankaj/Leetcode/tree/master/0808-soup-servings) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/rcypankaj/Leetcode/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/rcypankaj/Leetcode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
