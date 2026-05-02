@@ -9,6 +9,7 @@ This repository contains leetcode problems and solutions.
 | [0001-two-sum](https://github.com/rcypankaj/Leetcode/tree/master/0001-two-sum) |
 | [0018-4sum](https://github.com/rcypankaj/Leetcode/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/rcypankaj/Leetcode/tree/master/0031-next-permutation) |
+| [0049-group-anagrams](https://github.com/rcypankaj/Leetcode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/rcypankaj/Leetcode/tree/master/0056-merge-intervals) |
 | [0059-spiral-matrix-ii](https://github.com/rcypankaj/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/rcypankaj/Leetcode/tree/master/0073-set-matrix-zeroes) |
@@ -73,6 +74,7 @@ This repository contains leetcode problems and solutions.
 |  |
 | ------- |
 | [0018-4sum](https://github.com/rcypankaj/Leetcode/tree/master/0018-4sum) |
+| [0049-group-anagrams](https://github.com/rcypankaj/Leetcode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/rcypankaj/Leetcode/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/rcypankaj/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/rcypankaj/Leetcode/tree/master/0217-contains-duplicate) |
@@ -228,6 +230,7 @@ This repository contains leetcode problems and solutions.
 | ------- |
 | [0001-two-sum](https://github.com/rcypankaj/Leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rcypankaj/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/rcypankaj/Leetcode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/rcypankaj/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/rcypankaj/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/rcypankaj/Leetcode/tree/master/0141-linked-list-cycle) |
@@ -261,6 +264,7 @@ This repository contains leetcode problems and solutions.
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rcypankaj/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/rcypankaj/Leetcode/tree/master/0049-group-anagrams) |
 | [0541-reverse-string-ii](https://github.com/rcypankaj/Leetcode/tree/master/0541-reverse-string-ii) |
 | [0657-robot-return-to-origin](https://github.com/rcypankaj/Leetcode/tree/master/0657-robot-return-to-origin) |
 | [0756-pyramid-transition-matrix](https://github.com/rcypankaj/Leetcode/tree/master/0756-pyramid-transition-matrix) |
