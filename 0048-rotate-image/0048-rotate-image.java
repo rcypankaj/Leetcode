@@ -13,7 +13,6 @@ class Solution {
                 matrix[i][j] = res[i][j];
             }
         }
-
     }
     public void rotate(int[][] matrix) {
         rotateUsingBruteForce(matrix);
