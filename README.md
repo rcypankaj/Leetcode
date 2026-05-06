@@ -35,6 +35,7 @@ This repository contains leetcode problems and solutions.
 | [1727-largest-submatrix-with-rearrangements](https://github.com/rcypankaj/Leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/rcypankaj/Leetcode/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/rcypankaj/Leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [1861-rotating-the-box](https://github.com/rcypankaj/Leetcode/tree/master/1861-rotating-the-box) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/rcypankaj/Leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/rcypankaj/Leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1980-find-unique-binary-string](https://github.com/rcypankaj/Leetcode/tree/master/1980-find-unique-binary-string) |
@@ -112,6 +113,7 @@ This repository contains leetcode problems and solutions.
 | [0287-find-the-duplicate-number](https://github.com/rcypankaj/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0541-reverse-string-ii](https://github.com/rcypankaj/Leetcode/tree/master/0541-reverse-string-ii) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/rcypankaj/Leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [1861-rotating-the-box](https://github.com/rcypankaj/Leetcode/tree/master/1861-rotating-the-box) |
 | [2109-adding-spaces-to-a-string](https://github.com/rcypankaj/Leetcode/tree/master/2109-adding-spaces-to-a-string) |
 | [2856-minimum-array-length-after-pair-removals](https://github.com/rcypankaj/Leetcode/tree/master/2856-minimum-array-length-after-pair-removals) |
 | [2903-find-indices-with-index-and-value-difference-i](https://github.com/rcypankaj/Leetcode/tree/master/2903-find-indices-with-index-and-value-difference-i) |
@@ -406,6 +408,7 @@ This repository contains leetcode problems and solutions.
 | [1582-special-positions-in-a-binary-matrix](https://github.com/rcypankaj/Leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/rcypankaj/Leetcode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/rcypankaj/Leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [1861-rotating-the-box](https://github.com/rcypankaj/Leetcode/tree/master/1861-rotating-the-box) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/rcypankaj/Leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/rcypankaj/Leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/rcypankaj/Leetcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
