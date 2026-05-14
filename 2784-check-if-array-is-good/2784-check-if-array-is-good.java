@@ -1,15 +1,11 @@
 class Solution {
     public boolean isGood(int[] nums) {
         int n = nums.length;
-        Map<Integer, Integer> map = new HashMap<>();
-
-        for (int num: nums) {
-            map.put(num, map.getOrDefault(num, 0)+1);
+        Arrays.sort(nums);
+        for (int i = 0; i < n; i++) {
+            if (i < n-2 && nums[i] != i+1) return false;
+            else if (i >= n-2 && nums[i] != n-1) return false;
         }
-
-        for (int i = 1; i < n-1; i++) {
-            if (!map.containsKey(i)) return false;
-        }
-        return map.getOrDefault(n-1, 0) == 2;
+        return true;
     }
 }
