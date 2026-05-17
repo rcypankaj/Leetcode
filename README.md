@@ -27,6 +27,7 @@ This repository contains leetcode problems and solutions.
 | [0493-reverse-pairs](https://github.com/rcypankaj/Leetcode/tree/master/0493-reverse-pairs) |
 | [0746-min-cost-climbing-stairs](https://github.com/rcypankaj/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0840-magic-squares-in-grid](https://github.com/rcypankaj/Leetcode/tree/master/0840-magic-squares-in-grid) |
+| [1306-jump-game-iii](https://github.com/rcypankaj/Leetcode/tree/master/1306-jump-game-iii) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/rcypankaj/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/rcypankaj/Leetcode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/rcypankaj/Leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
@@ -489,6 +490,7 @@ This repository contains leetcode problems and solutions.
 ## Breadth-First Search
 |  |
 | ------- |
+| [1306-jump-game-iii](https://github.com/rcypankaj/Leetcode/tree/master/1306-jump-game-iii) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/rcypankaj/Leetcode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/rcypankaj/Leetcode/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/rcypankaj/Leetcode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
@@ -523,6 +525,7 @@ This repository contains leetcode problems and solutions.
 |  |
 | ------- |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/rcypankaj/Leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+| [1306-jump-game-iii](https://github.com/rcypankaj/Leetcode/tree/master/1306-jump-game-iii) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/rcypankaj/Leetcode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/rcypankaj/Leetcode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 ## Union-Find
