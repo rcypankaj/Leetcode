@@ -7,14 +7,14 @@ class Solution {
         visited[curr] = true;
         
         boolean forward = false, backward = false;
-        if (curr+arr[curr] < arr.length) {
-            forward = dfs(arr, curr+arr[curr], visited);
+        if (curr+arr[curr] < arr.length && dfs(arr, curr+arr[curr], visited)) {
+            return true;
         }
 
-        if (curr-arr[curr] >= 0) {
-            backward = dfs(arr, curr-arr[curr], visited);
+        if (curr-arr[curr] >= 0 && dfs(arr, curr-arr[curr], visited)) {
+            return true;
         }
-        return forward || backward;
+        return false;
 
     }
     public boolean canReach(int[] arr, int start) {
