@@ -18,6 +18,6 @@ class Solution {
 
     }
     public boolean canReach(int[] arr, int start) {
-        return dfs(arr, start, new boolean[arr.length+1]);
+        return dfs(arr, start, new boolean[arr.length]);
     }
 }
