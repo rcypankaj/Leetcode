@@ -70,6 +70,7 @@ This repository contains leetcode problems and solutions.
 | [2906-construct-product-matrix](https://github.com/rcypankaj/Leetcode/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/rcypankaj/Leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2974-minimum-number-game](https://github.com/rcypankaj/Leetcode/tree/master/2974-minimum-number-game) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/rcypankaj/Leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/rcypankaj/Leetcode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/rcypankaj/Leetcode/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3225-maximum-score-from-grid-operations](https://github.com/rcypankaj/Leetcode/tree/master/3225-maximum-score-from-grid-operations) |
@@ -285,6 +286,7 @@ This repository contains leetcode problems and solutions.
 | [2784-check-if-array-is-good](https://github.com/rcypankaj/Leetcode/tree/master/2784-check-if-array-is-good) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/rcypankaj/Leetcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2856-minimum-array-length-after-pair-removals](https://github.com/rcypankaj/Leetcode/tree/master/2856-minimum-array-length-after-pair-removals) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/rcypankaj/Leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3488-closest-equal-element-queries](https://github.com/rcypankaj/Leetcode/tree/master/3488-closest-equal-element-queries) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/rcypankaj/Leetcode/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/rcypankaj/Leetcode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
@@ -326,6 +328,7 @@ This repository contains leetcode problems and solutions.
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/rcypankaj/Leetcode/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/rcypankaj/Leetcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2864-maximum-odd-binary-number](https://github.com/rcypankaj/Leetcode/tree/master/2864-maximum-odd-binary-number) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/rcypankaj/Leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/rcypankaj/Leetcode/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/rcypankaj/Leetcode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 | [3713-longest-balanced-substring-i](https://github.com/rcypankaj/Leetcode/tree/master/3713-longest-balanced-substring-i) |
@@ -567,6 +570,7 @@ This repository contains leetcode problems and solutions.
 |  |
 | ------- |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/rcypankaj/Leetcode/tree/master/2452-words-within-two-edits-of-dictionary) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/rcypankaj/Leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 ## Memoization
 |  |
 | ------- |
