@@ -9,6 +9,7 @@ This repository contains leetcode problems and solutions.
 | [0001-two-sum](https://github.com/rcypankaj/Leetcode/tree/master/0001-two-sum) |
 | [0018-4sum](https://github.com/rcypankaj/Leetcode/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/rcypankaj/Leetcode/tree/master/0031-next-permutation) |
+| [0033-search-in-rotated-sorted-array](https://github.com/rcypankaj/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0048-rotate-image](https://github.com/rcypankaj/Leetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/rcypankaj/Leetcode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/rcypankaj/Leetcode/tree/master/0056-merge-intervals) |
@@ -139,6 +140,7 @@ This repository contains leetcode problems and solutions.
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/rcypankaj/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/rcypankaj/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/rcypankaj/Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0268-missing-number](https://github.com/rcypankaj/Leetcode/tree/master/0268-missing-number) |
