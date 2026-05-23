@@ -8,8 +8,6 @@ class Solution {
                 break;
             }
         }
-        System.out.println(idx);
-
         for (int i = 0; i < n-1; i++) {
             if (nums[idx%n] > nums[(idx+1)%n]) return false;
             idx++;
