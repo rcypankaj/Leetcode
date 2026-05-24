@@ -80,8 +80,35 @@ class Solution {
         int n = arr.length;
         divide(arr, 0, n-1);
     }
+    private static void recursiveBubbleSort(int[] arr, int n) {
+        if (n == 0) return;
+        boolean isSwapped = false;
+        for (int i = 1; i <= n; i++) {
+            if (arr[i-1] > arr[i]) {
+                int temp = arr[i-1];
+                arr[i-1] = arr[i];
+                arr[i] = temp;
+                isSwapped = true;
+            }
+        }
+        if (!isSwapped) return;
+        recursiveBubbleSort(arr, n-1);
+    }
+    private static void recursiveInsertionSort(int[] arr, int n) {
+        if (n == 0) return;
+        recursiveInsertionSort(arr, n-1);
+
+        int key = arr[n];
+        int j = n-1;
+        while (j >= 0 && arr[j] > key) {
+            arr[j+1] = arr[j];
+            j--;
+        }
+        arr[j+1] = key;
+
+    }
     public int[] sortArray(int[] nums) {
-        mergeSort(nums);
+        recursiveInsertionSort(nums, nums.length-1);
         return nums;
     }
 }
