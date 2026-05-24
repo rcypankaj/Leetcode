@@ -29,6 +29,7 @@ This repository contains leetcode problems and solutions.
 | [0493-reverse-pairs](https://github.com/rcypankaj/Leetcode/tree/master/0493-reverse-pairs) |
 | [0746-min-cost-climbing-stairs](https://github.com/rcypankaj/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0840-magic-squares-in-grid](https://github.com/rcypankaj/Leetcode/tree/master/0840-magic-squares-in-grid) |
+| [0912-sort-an-array](https://github.com/rcypankaj/Leetcode/tree/master/0912-sort-an-array) |
 | [1306-jump-game-iii](https://github.com/rcypankaj/Leetcode/tree/master/1306-jump-game-iii) |
 | [1340-jump-game-v](https://github.com/rcypankaj/Leetcode/tree/master/1340-jump-game-v) |
 | [1345-jump-game-iv](https://github.com/rcypankaj/Leetcode/tree/master/1345-jump-game-iv) |
@@ -102,6 +103,7 @@ This repository contains leetcode problems and solutions.
 | [0217-contains-duplicate](https://github.com/rcypankaj/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/rcypankaj/Leetcode/tree/master/0268-missing-number) |
 | [0761-special-binary-string](https://github.com/rcypankaj/Leetcode/tree/master/0761-special-binary-string) |
+| [0912-sort-an-array](https://github.com/rcypankaj/Leetcode/tree/master/0912-sort-an-array) |
 | [1340-jump-game-v](https://github.com/rcypankaj/Leetcode/tree/master/1340-jump-game-v) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/rcypankaj/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/rcypankaj/Leetcode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
@@ -245,6 +247,7 @@ This repository contains leetcode problems and solutions.
 | [0493-reverse-pairs](https://github.com/rcypankaj/Leetcode/tree/master/0493-reverse-pairs) |
 | [0558-logical-or-of-two-binary-grids-represented-as-quad-trees](https://github.com/rcypankaj/Leetcode/tree/master/0558-logical-or-of-two-binary-grids-represented-as-quad-trees) |
 | [0761-special-binary-string](https://github.com/rcypankaj/Leetcode/tree/master/0761-special-binary-string) |
+| [0912-sort-an-array](https://github.com/rcypankaj/Leetcode/tree/master/0912-sort-an-array) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -258,6 +261,7 @@ This repository contains leetcode problems and solutions.
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/rcypankaj/Leetcode/tree/master/0493-reverse-pairs) |
+| [0912-sort-an-array](https://github.com/rcypankaj/Leetcode/tree/master/0912-sort-an-array) |
 ## Ordered Set
 |  |
 | ------- |
@@ -385,6 +389,7 @@ This repository contains leetcode problems and solutions.
 |  |
 | ------- |
 | [0264-ugly-number-ii](https://github.com/rcypankaj/Leetcode/tree/master/0264-ugly-number-ii) |
+| [0912-sort-an-array](https://github.com/rcypankaj/Leetcode/tree/master/0912-sort-an-array) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/rcypankaj/Leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2762-continuous-subarrays](https://github.com/rcypankaj/Leetcode/tree/master/2762-continuous-subarrays) |
 | [2974-minimum-number-game](https://github.com/rcypankaj/Leetcode/tree/master/2974-minimum-number-game) |
@@ -591,4 +596,16 @@ This repository contains leetcode problems and solutions.
 | ------- |
 | [0204-count-primes](https://github.com/rcypankaj/Leetcode/tree/master/0204-count-primes) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/rcypankaj/Leetcode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/rcypankaj/Leetcode/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/rcypankaj/Leetcode/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/rcypankaj/Leetcode/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
