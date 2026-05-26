@@ -301,6 +301,7 @@ This repository contains leetcode problems and solutions.
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/rcypankaj/Leetcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2856-minimum-array-length-after-pair-removals](https://github.com/rcypankaj/Leetcode/tree/master/2856-minimum-array-length-after-pair-removals) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/rcypankaj/Leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/rcypankaj/Leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3488-closest-equal-element-queries](https://github.com/rcypankaj/Leetcode/tree/master/3488-closest-equal-element-queries) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/rcypankaj/Leetcode/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/rcypankaj/Leetcode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
@@ -345,6 +346,7 @@ This repository contains leetcode problems and solutions.
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/rcypankaj/Leetcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2864-maximum-odd-binary-number](https://github.com/rcypankaj/Leetcode/tree/master/2864-maximum-odd-binary-number) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/rcypankaj/Leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/rcypankaj/Leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/rcypankaj/Leetcode/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/rcypankaj/Leetcode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 | [3713-longest-balanced-substring-i](https://github.com/rcypankaj/Leetcode/tree/master/3713-longest-balanced-substring-i) |
