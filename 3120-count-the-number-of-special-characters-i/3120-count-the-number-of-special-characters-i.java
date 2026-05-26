@@ -9,7 +9,6 @@ class Solution {
                 map.put(currChar, map.getOrDefault(currChar, 0)+1);
             }
         }
-        System.out.println(map);
         for (int i = 0; i < n; i++) {
             char currChar = word.charAt(i);
             boolean isUpperCaseChar = Character.isUpperCase(currChar);
