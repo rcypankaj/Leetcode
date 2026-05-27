@@ -12,8 +12,6 @@ class Solution {
                 charArr[Character.toLowerCase(currChar) - 'a'] = i+1;
             }
         }
-        System.out.println(Arrays.toString(charIdx)+" UI"+Arrays.toString(charArr));
-
         for (int i = 0; i < n; i++) {
             char currChar = word.charAt(i);
             if(Character.isUpperCase(currChar) && charArr[Character.toLowerCase(currChar) - 'a'] < charIdx[Character.toLowerCase(currChar) - 'a'] && charArr[Character.toLowerCase(currChar) - 'a'] != 0) {
