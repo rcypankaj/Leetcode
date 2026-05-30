@@ -29,6 +29,7 @@ This repository contains leetcode problems and solutions.
 | [0283-move-zeroes](https://github.com/rcypankaj/Leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/rcypankaj/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0396-rotate-function](https://github.com/rcypankaj/Leetcode/tree/master/0396-rotate-function) |
+| [0485-max-consecutive-ones](https://github.com/rcypankaj/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/rcypankaj/Leetcode/tree/master/0493-reverse-pairs) |
 | [0746-min-cost-climbing-stairs](https://github.com/rcypankaj/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0840-magic-squares-in-grid](https://github.com/rcypankaj/Leetcode/tree/master/0840-magic-squares-in-grid) |
