@@ -26,6 +26,7 @@ This repository contains leetcode problems and solutions.
 | [0217-contains-duplicate](https://github.com/rcypankaj/Leetcode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/rcypankaj/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/rcypankaj/Leetcode/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/rcypankaj/Leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/rcypankaj/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0396-rotate-function](https://github.com/rcypankaj/Leetcode/tree/master/0396-rotate-function) |
 | [0493-reverse-pairs](https://github.com/rcypankaj/Leetcode/tree/master/0493-reverse-pairs) |
@@ -141,6 +142,7 @@ This repository contains leetcode problems and solutions.
 | [0160-intersection-of-two-linked-lists](https://github.com/rcypankaj/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/rcypankaj/Leetcode/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/rcypankaj/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0283-move-zeroes](https://github.com/rcypankaj/Leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/rcypankaj/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0541-reverse-string-ii](https://github.com/rcypankaj/Leetcode/tree/master/0541-reverse-string-ii) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/rcypankaj/Leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
