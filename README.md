@@ -22,6 +22,7 @@ This repository contains leetcode problems and solutions.
 | [0128-longest-consecutive-sequence](https://github.com/rcypankaj/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/rcypankaj/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/rcypankaj/Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0169-majority-element](https://github.com/rcypankaj/Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/rcypankaj/Leetcode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/rcypankaj/Leetcode/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/rcypankaj/Leetcode/tree/master/0217-contains-duplicate) |
@@ -110,6 +111,7 @@ This repository contains leetcode problems and solutions.
 | [0056-merge-intervals](https://github.com/rcypankaj/Leetcode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/rcypankaj/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/rcypankaj/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/rcypankaj/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/rcypankaj/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/rcypankaj/Leetcode/tree/master/0268-missing-number) |
 | [0761-special-binary-string](https://github.com/rcypankaj/Leetcode/tree/master/0761-special-binary-string) |
@@ -263,6 +265,7 @@ This repository contains leetcode problems and solutions.
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/rcypankaj/Leetcode/tree/master/0169-majority-element) |
 | [0493-reverse-pairs](https://github.com/rcypankaj/Leetcode/tree/master/0493-reverse-pairs) |
 | [0558-logical-or-of-two-binary-grids-represented-as-quad-trees](https://github.com/rcypankaj/Leetcode/tree/master/0558-logical-or-of-two-binary-grids-represented-as-quad-trees) |
 | [0761-special-binary-string](https://github.com/rcypankaj/Leetcode/tree/master/0761-special-binary-string) |
@@ -301,6 +304,7 @@ This repository contains leetcode problems and solutions.
 | [0142-linked-list-cycle-ii](https://github.com/rcypankaj/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/rcypankaj/Leetcode/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/rcypankaj/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/rcypankaj/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/rcypankaj/Leetcode/tree/master/0217-contains-duplicate) |
 | [0264-ugly-number-ii](https://github.com/rcypankaj/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/rcypankaj/Leetcode/tree/master/0268-missing-number) |
@@ -539,6 +543,7 @@ This repository contains leetcode problems and solutions.
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/rcypankaj/Leetcode/tree/master/0169-majority-element) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/rcypankaj/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/rcypankaj/Leetcode/tree/master/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [2833-furthest-point-from-origin](https://github.com/rcypankaj/Leetcode/tree/master/2833-furthest-point-from-origin) |
