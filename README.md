@@ -13,6 +13,7 @@ This repository contains leetcode problems and solutions.
 | [0033-search-in-rotated-sorted-array](https://github.com/rcypankaj/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0048-rotate-image](https://github.com/rcypankaj/Leetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/rcypankaj/Leetcode/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/rcypankaj/Leetcode/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/rcypankaj/Leetcode/tree/master/0056-merge-intervals) |
 | [0059-spiral-matrix-ii](https://github.com/rcypankaj/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/rcypankaj/Leetcode/tree/master/0073-set-matrix-zeroes) |
@@ -237,6 +238,7 @@ This repository contains leetcode problems and solutions.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/rcypankaj/Leetcode/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/rcypankaj/Leetcode/tree/master/0062-unique-paths) |
 | [0118-pascals-triangle](https://github.com/rcypankaj/Leetcode/tree/master/0118-pascals-triangle) |
 | [0264-ugly-number-ii](https://github.com/rcypankaj/Leetcode/tree/master/0264-ugly-number-ii) |
@@ -267,6 +269,7 @@ This repository contains leetcode problems and solutions.
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/rcypankaj/Leetcode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/rcypankaj/Leetcode/tree/master/0169-majority-element) |
 | [0493-reverse-pairs](https://github.com/rcypankaj/Leetcode/tree/master/0493-reverse-pairs) |
 | [0558-logical-or-of-two-binary-grids-represented-as-quad-trees](https://github.com/rcypankaj/Leetcode/tree/master/0558-logical-or-of-two-binary-grids-represented-as-quad-trees) |
