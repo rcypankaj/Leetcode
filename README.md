@@ -100,6 +100,7 @@ This repository contains leetcode problems and solutions.
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/rcypankaj/Leetcode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/rcypankaj/Leetcode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/rcypankaj/Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/rcypankaj/Leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3643-flip-square-submatrix-vertically](https://github.com/rcypankaj/Leetcode/tree/master/3643-flip-square-submatrix-vertically) |
 | [3660-jump-game-ix](https://github.com/rcypankaj/Leetcode/tree/master/3660-jump-game-ix) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/rcypankaj/Leetcode/tree/master/3661-maximum-walls-destroyed-by-robots) |
@@ -139,6 +140,7 @@ This repository contains leetcode problems and solutions.
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/rcypankaj/Leetcode/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/rcypankaj/Leetcode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/rcypankaj/Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/rcypankaj/Leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/rcypankaj/Leetcode/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Two Pointers
 |  |
@@ -166,6 +168,7 @@ This repository contains leetcode problems and solutions.
 | [2856-minimum-array-length-after-pair-removals](https://github.com/rcypankaj/Leetcode/tree/master/2856-minimum-array-length-after-pair-removals) |
 | [2903-find-indices-with-index-and-value-difference-i](https://github.com/rcypankaj/Leetcode/tree/master/2903-find-indices-with-index-and-value-difference-i) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/rcypankaj/Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/rcypankaj/Leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3643-flip-square-submatrix-vertically](https://github.com/rcypankaj/Leetcode/tree/master/3643-flip-square-submatrix-vertically) |
 ## Binary Search
 |  |
@@ -185,6 +188,7 @@ This repository contains leetcode problems and solutions.
 | [3488-closest-equal-element-queries](https://github.com/rcypankaj/Leetcode/tree/master/3488-closest-equal-element-queries) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/rcypankaj/Leetcode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/rcypankaj/Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/rcypankaj/Leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/rcypankaj/Leetcode/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Bit Manipulation
 |  |
@@ -476,6 +480,7 @@ This repository contains leetcode problems and solutions.
 | [3474-lexicographically-smallest-generated-string](https://github.com/rcypankaj/Leetcode/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/rcypankaj/Leetcode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/rcypankaj/Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/rcypankaj/Leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Queue
 |  |
 | ------- |
