@@ -19,7 +19,6 @@ class Solution {
         for (int i = 0; i < n; i++) {
             maxProfit = Math.max(suffix[i]-prefix[i], maxProfit);
         }
-        System.out.println(Arrays.toString(prefix)+" "+Arrays.toString(suffix));
         return maxProfit;
     }
 }
