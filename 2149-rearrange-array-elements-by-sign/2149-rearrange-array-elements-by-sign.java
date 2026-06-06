@@ -1,22 +1,42 @@
 class Solution {
+    private static int findNextPosIdx(int[] nums, int i ) {
+        int n = nums.length;
+        while (i < n) {
+            if (nums[i] >= 0) return i;
+            i++;
+        }
+        return i;
+    }
+    private static int findNextNegIdx(int[] nums, int i ) {
+        int n = nums.length;
+        while (i < n) {
+            if (nums[i] < 0) return i;
+            i++;
+        }
+        return i;
+    }
     public int[] rearrangeArray(int[] nums) {
         int n = nums.length;
-        List<Integer> pos = new ArrayList<>();
-        List<Integer> neg = new ArrayList<>();
-        for (int i = 0; i < n; i++) {
-            if (nums[i] < 0) neg.add(nums[i]);
-        }
-        for (int i = 0; i < n; i++) {
-            if (nums[i] >= 0) pos.add(nums[i]);
-        }
-        int posIdx = 0, negIdx = 0, it = 0;
-        for (int i = 0; i < n; i++) {
-            if (i%2 == 0) {
-                nums[i] = pos.get(posIdx++);
+        int i = 0, j= 0, it = 0;
+        int[] res = new int[n];
+        while (i < n && j < n && it < n) {
+            if (it%2 == 0) {
+                int idx = findNextPosIdx(nums, i);
+                if (idx < n) {
+                    res[it++] = nums[idx];
+                }
+                i = idx+1;
             } else {
-                nums[i] = neg.get(negIdx++);
+                int idx = findNextNegIdx(nums, j);
+                if (idx < n) {
+                    res[it++] = nums[idx];
+                }
+                j = idx+1;
             }
         }
-        return nums;
+        if (j < n) {
+            res[it] = nums[findNextNegIdx(nums, j)];
+        }
+        return res;
     }
 }
