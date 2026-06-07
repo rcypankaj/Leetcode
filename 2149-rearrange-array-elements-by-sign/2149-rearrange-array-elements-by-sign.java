@@ -17,25 +17,16 @@ class Solution {
     }
     public int[] rearrangeArray(int[] nums) {
         int n = nums.length;
-        int i = 0, j= 0, it = 0;
+        int i = 0, j= 1;
         int[] res = new int[n];
-        while (i < n && j < n && it < n) {
-            if (it%2 == 0) {
-                int idx = findNextPosIdx(nums, i);
-                if (idx < n) {
-                    res[it++] = nums[idx];
-                }
-                i = idx+1;
+        for (int num: nums) {
+            if (num > 0) {
+                res[i] = num;
+                i += 2;
             } else {
-                int idx = findNextNegIdx(nums, j);
-                if (idx < n) {
-                    res[it++] = nums[idx];
-                }
-                j = idx+1;
+                res[j] = num;
+                j += 2;
             }
-        }
-        if (j < n) {
-            res[it] = nums[findNextNegIdx(nums, j)];
         }
         return res;
     }
