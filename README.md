@@ -66,6 +66,7 @@ This repository contains leetcode problems and solutions.
 | [2126-destroying-asteroids](https://github.com/rcypankaj/Leetcode/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/rcypankaj/Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/rcypankaj/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/rcypankaj/Leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2241-design-an-atm-machine](https://github.com/rcypankaj/Leetcode/tree/master/2241-design-an-atm-machine) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/rcypankaj/Leetcode/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2463-minimum-total-distance-traveled](https://github.com/rcypankaj/Leetcode/tree/master/2463-minimum-total-distance-traveled) |
@@ -338,6 +339,7 @@ This repository contains leetcode problems and solutions.
 | [1980-find-unique-binary-string](https://github.com/rcypankaj/Leetcode/tree/master/1980-find-unique-binary-string) |
 | [2094-finding-3-digit-even-numbers](https://github.com/rcypankaj/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/rcypankaj/Leetcode/tree/master/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/rcypankaj/Leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2405-optimal-partition-of-string](https://github.com/rcypankaj/Leetcode/tree/master/2405-optimal-partition-of-string) |
 | [2540-minimum-common-value](https://github.com/rcypankaj/Leetcode/tree/master/2540-minimum-common-value) |
 | [2615-sum-of-distances](https://github.com/rcypankaj/Leetcode/tree/master/2615-sum-of-distances) |
@@ -457,6 +459,7 @@ This repository contains leetcode problems and solutions.
 | ------- |
 | [0558-logical-or-of-two-binary-grids-represented-as-quad-trees](https://github.com/rcypankaj/Leetcode/tree/master/0558-logical-or-of-two-binary-grids-represented-as-quad-trees) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/rcypankaj/Leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/rcypankaj/Leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/rcypankaj/Leetcode/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Probability and Statistics
 |  |
@@ -589,6 +592,7 @@ This repository contains leetcode problems and solutions.
 |  |
 | ------- |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/rcypankaj/Leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/rcypankaj/Leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/rcypankaj/Leetcode/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Enumeration
 |  |
