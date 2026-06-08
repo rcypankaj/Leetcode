@@ -1,43 +1,45 @@
 class Solution {
+    private void swap(int[] nums, int i, int j) {
+        int temp = nums[i];
+        nums[i] = nums[j];
+        nums[j] = temp;
+    }
+    private void sort(int[] nums, int breakPoint) {
+        int n = nums.length;
+        int i = breakPoint, j = n-1;
+        while (i < j) {
+            swap(nums, i++, j--);
+        }
+    }
     public void nextPermutation(int[] nums) {
-        int ind1=-1;
-        int ind2=-1;
-        for(int i=nums.length-2;i>=0;i--){
-            if(nums[i]<nums[i+1]){
-                ind1=i;
+        int n = nums.length;
+        int breakPoint = -1;
+
+        for (int i = n-1; i > 0; i--) {
+            if (nums[i-1] < nums[i]) {
+                System.out.println(nums[i]+" "+nums[i-1]);
+                breakPoint = i;
                 break;
             }
         }
-        if(ind1==-1){
-            reverse(nums,0);
-        }
-        
-        else{
-            // step 2 find next greater element and swap with ind2
-            for(int i=nums.length-1;i>=0;i--){
-                if(nums[i]>nums[ind1]){
-                    ind2=i;
-                    break;
-                }
-            }
+        System.out.println(breakPoint);
 
-            swap(nums,ind1,ind2);
-            // step 3 reverse the rest right half
-            reverse(nums,ind1+1);
+        if (breakPoint == -1) {
+            int i = 0, j = n-1;
+            while (i < j) {
+                swap(nums, i++, j--);
+            }
+            return;
         }
-    }
-    void swap(int[] nums,int i,int j){
-        int temp=nums[i];
-        nums[i]=nums[j];
-        nums[j]=temp;
-    }
-    void reverse(int[] nums,int start){
-        int i=start;
-        int j=nums.length-1;
-        while(i<j){
-            swap(nums,i,j);
-            i++;
-            j--;
+
+        for (int i = n-1; i >= breakPoint; i--) {
+            if (nums[i] > nums[breakPoint-1]){
+                swap(nums, i, breakPoint-1);
+                break;
+            }
         }
+        System.out.println(Arrays.toString(nums));
+
+        sort(nums, breakPoint);
     }
 }
