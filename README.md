@@ -66,6 +66,7 @@ This repository contains leetcode problems and solutions.
 | [2126-destroying-asteroids](https://github.com/rcypankaj/Leetcode/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/rcypankaj/Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/rcypankaj/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/rcypankaj/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/rcypankaj/Leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2241-design-an-atm-machine](https://github.com/rcypankaj/Leetcode/tree/master/2241-design-an-atm-machine) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/rcypankaj/Leetcode/tree/master/2452-words-within-two-edits-of-dictionary) |
@@ -169,6 +170,7 @@ This repository contains leetcode problems and solutions.
 | [1861-rotating-the-box](https://github.com/rcypankaj/Leetcode/tree/master/1861-rotating-the-box) |
 | [2109-adding-spaces-to-a-string](https://github.com/rcypankaj/Leetcode/tree/master/2109-adding-spaces-to-a-string) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/rcypankaj/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/rcypankaj/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2540-minimum-common-value](https://github.com/rcypankaj/Leetcode/tree/master/2540-minimum-common-value) |
 | [2856-minimum-array-length-after-pair-removals](https://github.com/rcypankaj/Leetcode/tree/master/2856-minimum-array-length-after-pair-removals) |
 | [2903-find-indices-with-index-and-value-difference-i](https://github.com/rcypankaj/Leetcode/tree/master/2903-find-indices-with-index-and-value-difference-i) |
@@ -547,6 +549,7 @@ This repository contains leetcode problems and solutions.
 | [2075-decode-the-slanted-ciphertext](https://github.com/rcypankaj/Leetcode/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2109-adding-spaces-to-a-string](https://github.com/rcypankaj/Leetcode/tree/master/2109-adding-spaces-to-a-string) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/rcypankaj/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/rcypankaj/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2553-separate-the-digits-in-an-array](https://github.com/rcypankaj/Leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2751-robot-collisions](https://github.com/rcypankaj/Leetcode/tree/master/2751-robot-collisions) |
 | [2766-relocate-marbles](https://github.com/rcypankaj/Leetcode/tree/master/2766-relocate-marbles) |
