@@ -17,12 +17,10 @@ class Solution {
 
         for (int i = n-1; i > 0; i--) {
             if (nums[i-1] < nums[i]) {
-                System.out.println(nums[i]+" "+nums[i-1]);
                 breakPoint = i;
                 break;
             }
         }
-        System.out.println(breakPoint);
 
         if (breakPoint == -1) {
             int i = 0, j = n-1;
@@ -38,7 +36,6 @@ class Solution {
                 break;
             }
         }
-        System.out.println(Arrays.toString(nums));
 
         sort(nums, breakPoint);
     }
