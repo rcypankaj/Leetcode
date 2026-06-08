@@ -6,23 +6,21 @@ class Solution {
         List<Integer> list3 = new ArrayList<>();
 
         int[] res = new int[n];
-
-        for (int num: nums) {
-            if (num == pivot) list3.add(num);
-            else if (num > pivot) list2.add(num);
-            else list1.add(num);
+        int k = 0;
+        for (int i = 0; i < n; i++) {
+            if (nums[i] == pivot) list3.add(nums[i]);
+            else if (nums[i] > pivot) list2.add(nums[i]);
+            else {
+                res[k++] = nums[i];
+            }
         }
-        int i = 0;
-        while (i < list1.size()) {
-            res[i] = list1.get(i++);
-        }
-        int j= 0;
+        int j = 0;
         while (j < list3.size()) {
-            res[i++] = list3.get(j++);
+            res[k++] = list3.get(j++);
         }
         j = 0;
         while (j < list2.size()) {
-            res[i++] = list2.get(j++);
+            res[k++] = list2.get(j++);
         }
         return res;
     }
