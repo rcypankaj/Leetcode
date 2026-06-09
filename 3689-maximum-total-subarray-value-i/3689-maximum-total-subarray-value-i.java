@@ -1,6 +1,6 @@
 class Solution {
     public long maxTotalValue(int[] nums, int k) {
-        long max = 0, min = Integer.MAX_VALUE;
+        int max = 0, min = Integer.MAX_VALUE;
 
         for (int num: nums) {
             max = Math.max(num, max);
