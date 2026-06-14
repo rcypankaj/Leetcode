@@ -1,29 +1,31 @@
 class Solution {
+    private void setZeroesToParticularRowCols(int[][] nums, int row, int col) {
+        int n = nums.length, m = nums[0].length;
+        for (int i = 0; i < n; i++) {
+            nums[i][col] = 0;
+        }
+
+        for (int i = 0; i < m; i++) {
+            nums[row][i] = 0;
+        }
+        
+    }
     public void setZeroes(int[][] matrix) {
-        int n = matrix.length;
-        int m = matrix[0].length;
-        boolean zeroinFirstRow = false;
+        int n = matrix.length, m = matrix[0].length;
+        int[][] matrixCopy = new int[n][m];
+
         for (int i = 0; i < n; i++) {
             for (int j = 0; j < m; j++) {
-                if (matrix[i][j] == 0) {
-                    if (i == 0) {
-                        zeroinFirstRow = true;
-                    } else {
-                        matrix[0][j] = 0;
-                        matrix[i][0] = 0;
-                    }
+                matrixCopy[i][j] = matrix[i][j];
+            }
+        }
+
+        for (int i = 0; i < n; i++) {
+            for (int j = 0; j < m; j++) {
+                if (matrixCopy[i][j] == 0) {
+                    setZeroesToParticularRowCols(matrix, i, j);
                 }
             }
         }
-        for (int i = n-1; i >= 1; i--) {
-            for (int j = m-1; j >= 0; j--) {
-                if (matrix[i][0] == 0 || matrix[0][j] == 0) {
-                    matrix[i][j] = 0;
-                }
-            }
-        }
-        if (zeroinFirstRow)
-            for (int i = 0; i < m; i++)
-                matrix[0][i] = 0;
     }
 }
