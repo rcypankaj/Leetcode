@@ -173,6 +173,7 @@ This repository contains leetcode problems and solutions.
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/rcypankaj/Leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1861-rotating-the-box](https://github.com/rcypankaj/Leetcode/tree/master/1861-rotating-the-box) |
 | [2109-adding-spaces-to-a-string](https://github.com/rcypankaj/Leetcode/tree/master/2109-adding-spaces-to-a-string) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/rcypankaj/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/rcypankaj/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/rcypankaj/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2540-minimum-common-value](https://github.com/rcypankaj/Leetcode/tree/master/2540-minimum-common-value) |
@@ -435,6 +436,7 @@ This repository contains leetcode problems and solutions.
 | [0206-reverse-linked-list](https://github.com/rcypankaj/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/rcypankaj/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/rcypankaj/Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/rcypankaj/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
@@ -452,6 +454,7 @@ This repository contains leetcode problems and solutions.
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/rcypankaj/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/rcypankaj/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2751-robot-collisions](https://github.com/rcypankaj/Leetcode/tree/master/2751-robot-collisions) |
 ## Heap (Priority Queue)
 |  |
