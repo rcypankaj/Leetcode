@@ -12,18 +12,22 @@ class Solution {
     }
     public void setZeroes(int[][] matrix) {
         int n = matrix.length, m = matrix[0].length;
-        int[][] matrixCopy = new int[n][m];
+        boolean[] row = new boolean[n];
+        boolean[] col = new boolean[m];
 
         for (int i = 0; i < n; i++) {
             for (int j = 0; j < m; j++) {
-                matrixCopy[i][j] = matrix[i][j];
+                if (matrix[i][j] == 0) {
+                    row[i] = true;
+                    col[j] = true;
+                }
             }
         }
 
         for (int i = 0; i < n; i++) {
             for (int j = 0; j < m; j++) {
-                if (matrixCopy[i][j] == 0) {
-                    setZeroesToParticularRowCols(matrix, i, j);
+                if (row[i] || col[j]) {
+                    matrix[i][j] = 0;
                 }
             }
         }
