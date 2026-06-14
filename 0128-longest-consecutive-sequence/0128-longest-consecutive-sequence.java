@@ -4,11 +4,11 @@ class Solution {
         Arrays.sort(nums);
 
         for (int num: nums) {
-            if (num-1 == lastMin) {
+            if (num == lastMin) continue;
+            else if (num-1 == lastMin) {
                 lastMin = num;
                 len++;
-            } else if (num == lastMin) continue;
-            else {
+            } else {
                 len = 1;
                 lastMin = num;
             }
