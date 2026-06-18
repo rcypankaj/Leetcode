@@ -4,6 +4,6 @@ class Solution {
         double hourAngle = (hour % 12) * 30.0 + minutes * 0.5;
 
         double diff = Math.abs(hourAngle - minuteAngle);
-        return Math.min(diff, 360.0 - diff);
+        return Math.min(diff, 360 - diff);
     }
 }
