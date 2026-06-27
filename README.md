@@ -92,6 +92,7 @@ This repository contains leetcode problems and solutions.
 | [2906-construct-product-matrix](https://github.com/rcypankaj/Leetcode/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/rcypankaj/Leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2974-minimum-number-game](https://github.com/rcypankaj/Leetcode/tree/master/2974-minimum-number-game) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/rcypankaj/Leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/rcypankaj/Leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/rcypankaj/Leetcode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3093-longest-common-suffix-queries](https://github.com/rcypankaj/Leetcode/tree/master/3093-longest-common-suffix-queries) |
@@ -380,6 +381,7 @@ This repository contains leetcode problems and solutions.
 | [2784-check-if-array-is-good](https://github.com/rcypankaj/Leetcode/tree/master/2784-check-if-array-is-good) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/rcypankaj/Leetcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2856-minimum-array-length-after-pair-removals](https://github.com/rcypankaj/Leetcode/tree/master/2856-minimum-array-length-after-pair-removals) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/rcypankaj/Leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/rcypankaj/Leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/rcypankaj/Leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/rcypankaj/Leetcode/tree/master/3121-count-the-number-of-special-characters-ii) |
@@ -656,6 +658,7 @@ This repository contains leetcode problems and solutions.
 | ------- |
 | [0204-count-primes](https://github.com/rcypankaj/Leetcode/tree/master/0204-count-primes) |
 | [2094-finding-3-digit-even-numbers](https://github.com/rcypankaj/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/rcypankaj/Leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3546-equal-sum-grid-partition-i](https://github.com/rcypankaj/Leetcode/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/rcypankaj/Leetcode/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3713-longest-balanced-substring-i](https://github.com/rcypankaj/Leetcode/tree/master/3713-longest-balanced-substring-i) |
