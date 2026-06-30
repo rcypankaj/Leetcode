@@ -3,7 +3,7 @@
 <p>Each letter in <code>magazine</code> can only be used once in <code>ransomNote</code>.</p>
 
 <p>&nbsp;</p>
-<p><strong class="example">Example 1:</strong></p>
+<p><strong class="example">EExample 1:</strong></p>
 <pre><strong>Input:</strong> ransomNote = "a", magazine = "b"
 <strong>Output:</strong> false
 </pre><p><strong class="example">Example 2:</strong></p>
