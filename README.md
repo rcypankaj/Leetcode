@@ -14,6 +14,7 @@ This repository contains leetcode problems and solutions.
 | [0048-rotate-image](https://github.com/rcypankaj/Leetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/rcypankaj/Leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/rcypankaj/Leetcode/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/rcypankaj/Leetcode/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/rcypankaj/Leetcode/tree/master/0056-merge-intervals) |
 | [0059-spiral-matrix-ii](https://github.com/rcypankaj/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/rcypankaj/Leetcode/tree/master/0073-set-matrix-zeroes) |
@@ -564,6 +565,7 @@ This repository contains leetcode problems and solutions.
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/rcypankaj/Leetcode/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/rcypankaj/Leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/rcypankaj/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/rcypankaj/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0840-magic-squares-in-grid](https://github.com/rcypankaj/Leetcode/tree/master/0840-magic-squares-in-grid) |
@@ -592,6 +594,7 @@ This repository contains leetcode problems and solutions.
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/rcypankaj/Leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/rcypankaj/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0657-robot-return-to-origin](https://github.com/rcypankaj/Leetcode/tree/master/0657-robot-return-to-origin) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/rcypankaj/Leetcode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
