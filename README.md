@@ -29,6 +29,7 @@ This repository contains leetcode problems and solutions.
 | [0189-rotate-array](https://github.com/rcypankaj/Leetcode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/rcypankaj/Leetcode/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/rcypankaj/Leetcode/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/rcypankaj/Leetcode/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/rcypankaj/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/rcypankaj/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/rcypankaj/Leetcode/tree/master/0283-move-zeroes) |
@@ -136,6 +137,7 @@ This repository contains leetcode problems and solutions.
 | [0088-merge-sorted-array](https://github.com/rcypankaj/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/rcypankaj/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/rcypankaj/Leetcode/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/rcypankaj/Leetcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/rcypankaj/Leetcode/tree/master/0268-missing-number) |
 | [0761-special-binary-string](https://github.com/rcypankaj/Leetcode/tree/master/0761-special-binary-string) |
 | [0912-sort-an-array](https://github.com/rcypankaj/Leetcode/tree/master/0912-sort-an-array) |
@@ -366,6 +368,7 @@ This repository contains leetcode problems and solutions.
 | [0160-intersection-of-two-linked-lists](https://github.com/rcypankaj/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/rcypankaj/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/rcypankaj/Leetcode/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/rcypankaj/Leetcode/tree/master/0229-majority-element-ii) |
 | [0264-ugly-number-ii](https://github.com/rcypankaj/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/rcypankaj/Leetcode/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/rcypankaj/Leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -642,6 +645,7 @@ This repository contains leetcode problems and solutions.
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/rcypankaj/Leetcode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/rcypankaj/Leetcode/tree/master/0229-majority-element-ii) |
 | [1189-maximum-number-of-balloons](https://github.com/rcypankaj/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/rcypankaj/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/rcypankaj/Leetcode/tree/master/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
