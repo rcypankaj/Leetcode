@@ -5,12 +5,13 @@ class Solution {
 
         Arrays.sort(intervals, (a,b) -> a[0]-b[0]);
 
-        for (int i = 0; i < n; i++) {
+        for (int[] interval: intervals) {
             int listSize = list.size();
-            if (list.isEmpty() || list.get(listSize-1)[1] < intervals[i][0]) {
-                list.add(new int[]{intervals[i][0], intervals[i][1]});
+            if (list.isEmpty() || list.get(listSize-1)[1] < interval[0]) {
+                list.add(new int[]{interval[0], interval[1]});
             } else {
-                list.get(listSize-1)[1] = Math.max(list.get(listSize-1)[1], intervals[i][1]);
+                int[] last = list.get(listSize-1);
+                last[1] = Math.max(last[1], interval[1]);
             }
         }
 
