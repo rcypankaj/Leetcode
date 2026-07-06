@@ -10,7 +10,6 @@ class Solution {
             int start  = intervals[i][0];
             int end  = intervals[i][1];
             int listSize = list.size();
-            int prevStart = list.get(listSize-1)[0];
             int prevEnd = list.get(listSize-1)[1];
 
             if (prevEnd >= start) {
