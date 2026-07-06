@@ -13,16 +13,10 @@ class Solution {
             int prevStart = list.get(listSize-1)[0];
             int prevEnd = list.get(listSize-1)[1];
 
-            if (prevEnd > start) {
-                if (prevEnd < end) {
-                    list.get(listSize-1)[1] = end;
-                } else {
-                    continue;
-                }
-            } else if (prevEnd < start) {
-                list.add(new int[]{start, end});
+            if (prevEnd >= start) {
+                list.get(listSize-1)[1] = Math.max(prevEnd, end);
             } else {
-                list.get(listSize-1)[1] = end;
+                list.add(new int[]{start, end});
             }
 
         }
