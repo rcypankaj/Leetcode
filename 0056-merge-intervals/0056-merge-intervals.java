@@ -6,11 +6,10 @@ class Solution {
         Arrays.sort(intervals, (a,b) -> a[0]-b[0]);
 
         for (int[] interval: intervals) {
-            int listSize = list.size();
-            if (list.isEmpty() || list.get(listSize-1)[1] < interval[0]) {
+            if (list.isEmpty() || list.get(list.size()-1)[1] < interval[0]) {
                 list.add(new int[]{interval[0], interval[1]});
             } else {
-                int[] last = list.get(listSize-1);
+                int[] last = list.get(list.size()-1);
                 last[1] = Math.max(last[1], interval[1]);
             }
         }
