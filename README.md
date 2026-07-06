@@ -42,6 +42,7 @@ This repository contains leetcode problems and solutions.
 | [0746-min-cost-climbing-stairs](https://github.com/rcypankaj/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0840-magic-squares-in-grid](https://github.com/rcypankaj/Leetcode/tree/master/0840-magic-squares-in-grid) |
 | [0912-sort-an-array](https://github.com/rcypankaj/Leetcode/tree/master/0912-sort-an-array) |
+| [1288-remove-covered-intervals](https://github.com/rcypankaj/Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1306-jump-game-iii](https://github.com/rcypankaj/Leetcode/tree/master/1306-jump-game-iii) |
 | [1340-jump-game-v](https://github.com/rcypankaj/Leetcode/tree/master/1340-jump-game-v) |
 | [1345-jump-game-iv](https://github.com/rcypankaj/Leetcode/tree/master/1345-jump-game-iv) |
@@ -144,6 +145,7 @@ This repository contains leetcode problems and solutions.
 | [0268-missing-number](https://github.com/rcypankaj/Leetcode/tree/master/0268-missing-number) |
 | [0761-special-binary-string](https://github.com/rcypankaj/Leetcode/tree/master/0761-special-binary-string) |
 | [0912-sort-an-array](https://github.com/rcypankaj/Leetcode/tree/master/0912-sort-an-array) |
+| [1288-remove-covered-intervals](https://github.com/rcypankaj/Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1340-jump-game-v](https://github.com/rcypankaj/Leetcode/tree/master/1340-jump-game-v) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/rcypankaj/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/rcypankaj/Leetcode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
