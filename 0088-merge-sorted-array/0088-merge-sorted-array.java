@@ -1,41 +1,24 @@
 class Solution {
-    public void swapVal(int[] nums1, int[] nums2, int i, int j) {
-        nums1[i] = nums1[i] + nums2[j];
-        nums2[j] = nums1[i] - nums2[j];
-        nums1[i] = nums1[i] - nums2[j];
-    }
-    public void mergeArr(int[] nums1, int[] nums2, int m, int n) {
-        if (n == 0) return;
-        int length1 = nums1.length;
-        int[] result = new int[length1];
-        int start = 0, end = 0, idx = 0;
-        while (start < m && end < n) {
-            if (nums1[start] <= nums2[end]) {
-                result[idx++] = nums1[start++];
+    public void merge(int[] nums1, int m, int[] nums2, int n) {
+        int i = 0, j = 0, it = 0;
+        int[] res = new int[n+m];
+        while (i < m && j < n) {
+            if (nums1[i] <= nums2[j]) {
+                res[it++] = nums1[i++];
             } else {
-                result[idx++] = nums2[end++];
+                res[it++] = nums2[j++];
             }
         }
+        while (i < m) {
+            res[it++] = nums1[i++];
+        }
+        while (j < n) {
+            res[it++] = nums2[j++];
+        }
+        i = 0;
 
-        while (start < m) {
-            result[idx++] = nums1[start++];
+        for (i = 0; i < res.length; i++) {
+            nums1[i] = res[i];
         }
-        while (end < n) {
-            result[idx++] = nums2[end++];
-        }
-        for (int i = 0; i < length1; i++) {
-            nums1[i] = result[i];
-        }
-    }
-
-    public void mergeWithoutExtraSpace(int[] nums1, int[] nums2, int m, int n) {
-        for (int j = 0, i = m; j < n; j++) {
-            nums1[i] = nums2[j];
-            i++;
-        }
-        Arrays.sort(nums1);
-    }
-    public void merge(int[] nums1, int m, int[] nums2, int n) {
-        mergeArr(nums1, nums2, m, n);
     }
 }
