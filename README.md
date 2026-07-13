@@ -696,6 +696,7 @@ This repository contains leetcode problems and solutions.
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/rcypankaj/Leetcode/tree/master/0204-count-primes) |
+| [1291-sequential-digits](https://github.com/rcypankaj/Leetcode/tree/master/1291-sequential-digits) |
 | [2094-finding-3-digit-even-numbers](https://github.com/rcypankaj/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/rcypankaj/Leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3546-equal-sum-grid-partition-i](https://github.com/rcypankaj/Leetcode/tree/master/3546-equal-sum-grid-partition-i) |
