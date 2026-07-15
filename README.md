@@ -1,5 +1,5 @@
 # Leetcode
-This repository contains leetcode problems and solutions.
+This repository contains leetcode problems and solutions
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
