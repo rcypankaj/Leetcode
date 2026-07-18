@@ -68,6 +68,7 @@ This repository contains leetcode problems and solutions
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/rcypankaj/Leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1914-cyclically-rotating-a-grid](https://github.com/rcypankaj/Leetcode/tree/master/1914-cyclically-rotating-a-grid) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/rcypankaj/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/rcypankaj/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1980-find-unique-binary-string](https://github.com/rcypankaj/Leetcode/tree/master/1980-find-unique-binary-string) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/rcypankaj/Leetcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/rcypankaj/Leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
@@ -283,6 +284,7 @@ This repository contains leetcode problems and solutions
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/rcypankaj/Leetcode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1840-maximum-building-height](https://github.com/rcypankaj/Leetcode/tree/master/1840-maximum-building-height) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/rcypankaj/Leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/rcypankaj/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/rcypankaj/Leetcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2698-find-the-punishment-number-of-an-integer](https://github.com/rcypankaj/Leetcode/tree/master/2698-find-the-punishment-number-of-an-integer) |
 | [2864-maximum-odd-binary-number](https://github.com/rcypankaj/Leetcode/tree/master/2864-maximum-odd-binary-number) |
@@ -789,6 +791,7 @@ This repository contains leetcode problems and solutions
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/rcypankaj/Leetcode/tree/master/0204-count-primes) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/rcypankaj/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/rcypankaj/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/rcypankaj/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/rcypankaj/Leetcode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
