@@ -42,6 +42,7 @@ This repository contains leetcode problems and solutions
 | [0746-min-cost-climbing-stairs](https://github.com/rcypankaj/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0840-magic-squares-in-grid](https://github.com/rcypankaj/Leetcode/tree/master/0840-magic-squares-in-grid) |
 | [0912-sort-an-array](https://github.com/rcypankaj/Leetcode/tree/master/0912-sort-an-array) |
+| [1260-shift-2d-grid](https://github.com/rcypankaj/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/rcypankaj/Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1306-jump-game-iii](https://github.com/rcypankaj/Leetcode/tree/master/1306-jump-game-iii) |
 | [1340-jump-game-v](https://github.com/rcypankaj/Leetcode/tree/master/1340-jump-game-v) |
@@ -614,6 +615,7 @@ This repository contains leetcode problems and solutions
 | [0059-spiral-matrix-ii](https://github.com/rcypankaj/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/rcypankaj/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0840-magic-squares-in-grid](https://github.com/rcypankaj/Leetcode/tree/master/0840-magic-squares-in-grid) |
+| [1260-shift-2d-grid](https://github.com/rcypankaj/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/rcypankaj/Leetcode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/rcypankaj/Leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/rcypankaj/Leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
@@ -642,6 +644,7 @@ This repository contains leetcode problems and solutions
 | [0054-spiral-matrix](https://github.com/rcypankaj/Leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/rcypankaj/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0657-robot-return-to-origin](https://github.com/rcypankaj/Leetcode/tree/master/0657-robot-return-to-origin) |
+| [1260-shift-2d-grid](https://github.com/rcypankaj/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/rcypankaj/Leetcode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/rcypankaj/Leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/rcypankaj/Leetcode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
