@@ -3,7 +3,8 @@
 <p>Notice that the solution set must not contain duplicate triplets.</p>
 
 <p>&nbsp;</p>
-<p><strong class="example">Example 1:</strong></p>
+<p><strong class="example">Example 1:
+</strong></p>
 
 <pre>
 <strong>Input:</strong> nums = [-1,0,1,2,-1,-4]
