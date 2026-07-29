@@ -304,6 +304,7 @@ This repository contains leetcode problems and solutions
 | [3312-sorted-gcd-pair-queries](https://github.com/rcypankaj/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/rcypankaj/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/rcypankaj/Leetcode/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/rcypankaj/Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/rcypankaj/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/rcypankaj/Leetcode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/rcypankaj/Leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
@@ -359,6 +360,7 @@ This repository contains leetcode problems and solutions
 | ------- |
 | [0062-unique-paths](https://github.com/rcypankaj/Leetcode/tree/master/0062-unique-paths) |
 | [3312-sorted-gcd-pair-queries](https://github.com/rcypankaj/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/rcypankaj/Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -440,6 +442,7 @@ This repository contains leetcode problems and solutions
 | [3121-count-the-number-of-special-characters-ii](https://github.com/rcypankaj/Leetcode/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/rcypankaj/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3488-closest-equal-element-queries](https://github.com/rcypankaj/Leetcode/tree/master/3488-closest-equal-element-queries) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/rcypankaj/Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/rcypankaj/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/rcypankaj/Leetcode/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/rcypankaj/Leetcode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
@@ -496,6 +499,7 @@ This repository contains leetcode problems and solutions
 | [3499-maximize-active-section-with-trade-i](https://github.com/rcypankaj/Leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/rcypankaj/Leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/rcypankaj/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/rcypankaj/Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3612-process-string-with-special-operations-i](https://github.com/rcypankaj/Leetcode/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/rcypankaj/Leetcode/tree/master/3614-process-string-with-special-operations-ii) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/rcypankaj/Leetcode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
@@ -713,6 +717,7 @@ This repository contains leetcode problems and solutions
 | [2833-furthest-point-from-origin](https://github.com/rcypankaj/Leetcode/tree/master/2833-furthest-point-from-origin) |
 | [2856-minimum-array-length-after-pair-removals](https://github.com/rcypankaj/Leetcode/tree/master/2856-minimum-array-length-after-pair-removals) |
 | [3312-sorted-gcd-pair-queries](https://github.com/rcypankaj/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/rcypankaj/Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3713-longest-balanced-substring-i](https://github.com/rcypankaj/Leetcode/tree/master/3713-longest-balanced-substring-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/rcypankaj/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Breadth-First Search
