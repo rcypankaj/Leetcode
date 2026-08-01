@@ -37,6 +37,7 @@ This repository contains leetcode problems and solutions
 | [0287-find-the-duplicate-number](https://github.com/rcypankaj/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0396-rotate-function](https://github.com/rcypankaj/Leetcode/tree/master/0396-rotate-function) |
 | [0485-max-consecutive-ones](https://github.com/rcypankaj/Leetcode/tree/master/0485-max-consecutive-ones) |
+| [0486-predict-the-winner](https://github.com/rcypankaj/Leetcode/tree/master/0486-predict-the-winner) |
 | [0493-reverse-pairs](https://github.com/rcypankaj/Leetcode/tree/master/0493-reverse-pairs) |
 | [0560-subarray-sum-equals-k](https://github.com/rcypankaj/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rcypankaj/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -283,6 +284,7 @@ This repository contains leetcode problems and solutions
 | [0326-power-of-three](https://github.com/rcypankaj/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/rcypankaj/Leetcode/tree/master/0342-power-of-four) |
 | [0396-rotate-function](https://github.com/rcypankaj/Leetcode/tree/master/0396-rotate-function) |
+| [0486-predict-the-winner](https://github.com/rcypankaj/Leetcode/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/rcypankaj/Leetcode/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rcypankaj/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/rcypankaj/Leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
@@ -330,6 +332,7 @@ This repository contains leetcode problems and solutions
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rcypankaj/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0264-ugly-number-ii](https://github.com/rcypankaj/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0396-rotate-function](https://github.com/rcypankaj/Leetcode/tree/master/0396-rotate-function) |
+| [0486-predict-the-winner](https://github.com/rcypankaj/Leetcode/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/rcypankaj/Leetcode/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/rcypankaj/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0788-rotated-digits](https://github.com/rcypankaj/Leetcode/tree/master/0788-rotated-digits) |
@@ -545,6 +548,7 @@ This repository contains leetcode problems and solutions
 | [0234-palindrome-linked-list](https://github.com/rcypankaj/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/rcypankaj/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/rcypankaj/Leetcode/tree/master/0342-power-of-four) |
+| [0486-predict-the-winner](https://github.com/rcypankaj/Leetcode/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/rcypankaj/Leetcode/tree/master/0509-fibonacci-number) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/rcypankaj/Leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [2094-finding-3-digit-even-numbers](https://github.com/rcypankaj/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
@@ -858,4 +862,8 @@ This repository contains leetcode problems and solutions
 |  |
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/rcypankaj/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/rcypankaj/Leetcode/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
