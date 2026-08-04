@@ -14,8 +14,6 @@ class Solution {
             set.add(num);
         }
 
-        System.out.println(min+" "+max);
-
         for (int i = min; i <= max; i++) {
             if (!set.contains(i)) {
                 res.add(i);
