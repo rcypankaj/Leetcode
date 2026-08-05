@@ -746,6 +746,7 @@ This repository contains leetcode problems and solutions
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/rcypankaj/Leetcode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/rcypankaj/Leetcode/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 | [2685-count-the-number-of-complete-components](https://github.com/rcypankaj/Leetcode/tree/master/2685-count-the-number-of-complete-components) |
+| [3310-remove-methods-from-project](https://github.com/rcypankaj/Leetcode/tree/master/3310-remove-methods-from-project) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/rcypankaj/Leetcode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/rcypankaj/Leetcode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Binary Tree
@@ -788,6 +789,7 @@ This repository contains leetcode problems and solutions
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/rcypankaj/Leetcode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/rcypankaj/Leetcode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [2685-count-the-number-of-complete-components](https://github.com/rcypankaj/Leetcode/tree/master/2685-count-the-number-of-complete-components) |
+| [3310-remove-methods-from-project](https://github.com/rcypankaj/Leetcode/tree/master/3310-remove-methods-from-project) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/rcypankaj/Leetcode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/rcypankaj/Leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Union-Find
@@ -809,6 +811,7 @@ This repository contains leetcode problems and solutions
 |  |
 | ------- |
 | [2685-count-the-number-of-complete-components](https://github.com/rcypankaj/Leetcode/tree/master/2685-count-the-number-of-complete-components) |
+| [3310-remove-methods-from-project](https://github.com/rcypankaj/Leetcode/tree/master/3310-remove-methods-from-project) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/rcypankaj/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/rcypankaj/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/rcypankaj/Leetcode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
