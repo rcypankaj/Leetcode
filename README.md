@@ -44,6 +44,7 @@ This repository contains leetcode problems and solutions
 | [0746-min-cost-climbing-stairs](https://github.com/rcypankaj/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0840-magic-squares-in-grid](https://github.com/rcypankaj/Leetcode/tree/master/0840-magic-squares-in-grid) |
 | [0912-sort-an-array](https://github.com/rcypankaj/Leetcode/tree/master/0912-sort-an-array) |
+| [1140-stone-game-ii](https://github.com/rcypankaj/Leetcode/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/rcypankaj/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/rcypankaj/Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1306-jump-game-iii](https://github.com/rcypankaj/Leetcode/tree/master/1306-jump-game-iii) |
@@ -296,6 +297,7 @@ This repository contains leetcode problems and solutions
 | [0808-soup-servings](https://github.com/rcypankaj/Leetcode/tree/master/0808-soup-servings) |
 | [0836-rectangle-overlap](https://github.com/rcypankaj/Leetcode/tree/master/0836-rectangle-overlap) |
 | [0840-magic-squares-in-grid](https://github.com/rcypankaj/Leetcode/tree/master/0840-magic-squares-in-grid) |
+| [1140-stone-game-ii](https://github.com/rcypankaj/Leetcode/tree/master/1140-stone-game-ii) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/rcypankaj/Leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1406-stone-game-iii](https://github.com/rcypankaj/Leetcode/tree/master/1406-stone-game-iii) |
 | [1622-fancy-sequence](https://github.com/rcypankaj/Leetcode/tree/master/1622-fancy-sequence) |
@@ -344,6 +346,7 @@ This repository contains leetcode problems and solutions
 | [0746-min-cost-climbing-stairs](https://github.com/rcypankaj/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0788-rotated-digits](https://github.com/rcypankaj/Leetcode/tree/master/0788-rotated-digits) |
 | [0808-soup-servings](https://github.com/rcypankaj/Leetcode/tree/master/0808-soup-servings) |
+| [1140-stone-game-ii](https://github.com/rcypankaj/Leetcode/tree/master/1140-stone-game-ii) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/rcypankaj/Leetcode/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1340-jump-game-v](https://github.com/rcypankaj/Leetcode/tree/master/1340-jump-game-v) |
 | [1406-stone-game-iii](https://github.com/rcypankaj/Leetcode/tree/master/1406-stone-game-iii) |
@@ -712,6 +715,7 @@ This repository contains leetcode problems and solutions
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/rcypankaj/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/rcypankaj/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [1140-stone-game-ii](https://github.com/rcypankaj/Leetcode/tree/master/1140-stone-game-ii) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/rcypankaj/Leetcode/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1703-minimum-adjacent-swaps-for-k-consecutive-ones](https://github.com/rcypankaj/Leetcode/tree/master/1703-minimum-adjacent-swaps-for-k-consecutive-ones) |
 | [1732-find-the-highest-altitude](https://github.com/rcypankaj/Leetcode/tree/master/1732-find-the-highest-altitude) |
@@ -886,13 +890,16 @@ This repository contains leetcode problems and solutions
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/rcypankaj/Leetcode/tree/master/0486-predict-the-winner) |
+| [1140-stone-game-ii](https://github.com/rcypankaj/Leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/rcypankaj/Leetcode/tree/master/1406-stone-game-iii) |
 ## Minimax
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/rcypankaj/Leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/rcypankaj/Leetcode/tree/master/1406-stone-game-iii) |
 ## Zero-Sum Game
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/rcypankaj/Leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/rcypankaj/Leetcode/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
