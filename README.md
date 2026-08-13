@@ -85,6 +85,7 @@ This repository contains leetcode problems and solutions
 | [2149-rearrange-array-elements-by-sign](https://github.com/rcypankaj/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/rcypankaj/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/rcypankaj/Leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/rcypankaj/Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2241-design-an-atm-machine](https://github.com/rcypankaj/Leetcode/tree/master/2241-design-an-atm-machine) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/rcypankaj/Leetcode/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2463-minimum-total-distance-traveled](https://github.com/rcypankaj/Leetcode/tree/master/2463-minimum-total-distance-traveled) |
@@ -402,6 +403,7 @@ This repository contains leetcode problems and solutions
 | ------- |
 | [0493-reverse-pairs](https://github.com/rcypankaj/Leetcode/tree/master/0493-reverse-pairs) |
 | [1622-fancy-sequence](https://github.com/rcypankaj/Leetcode/tree/master/1622-fancy-sequence) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/rcypankaj/Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3161-block-placement-queries](https://github.com/rcypankaj/Leetcode/tree/master/3161-block-placement-queries) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/rcypankaj/Leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/rcypankaj/Leetcode/tree/master/3691-maximum-total-subarray-value-ii) |
@@ -418,6 +420,7 @@ This repository contains leetcode problems and solutions
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/rcypankaj/Leetcode/tree/master/0493-reverse-pairs) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/rcypankaj/Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2762-continuous-subarrays](https://github.com/rcypankaj/Leetcode/tree/master/2762-continuous-subarrays) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/rcypankaj/Leetcode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Hash Table
@@ -507,6 +510,7 @@ This repository contains leetcode problems and solutions
 | [2075-decode-the-slanted-ciphertext](https://github.com/rcypankaj/Leetcode/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2109-adding-spaces-to-a-string](https://github.com/rcypankaj/Leetcode/tree/master/2109-adding-spaces-to-a-string) |
 | [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/rcypankaj/Leetcode/tree/master/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/rcypankaj/Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2405-optimal-partition-of-string](https://github.com/rcypankaj/Leetcode/tree/master/2405-optimal-partition-of-string) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/rcypankaj/Leetcode/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/rcypankaj/Leetcode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
