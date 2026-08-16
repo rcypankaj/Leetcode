@@ -76,6 +76,7 @@ This repository contains leetcode problems and solutions
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/rcypankaj/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/rcypankaj/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1980-find-unique-binary-string](https://github.com/rcypankaj/Leetcode/tree/master/1980-find-unique-binary-string) |
+| [2029-stone-game-ix](https://github.com/rcypankaj/Leetcode/tree/master/2029-stone-game-ix) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/rcypankaj/Leetcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/rcypankaj/Leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2094-finding-3-digit-even-numbers](https://github.com/rcypankaj/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
@@ -311,6 +312,7 @@ This repository contains leetcode problems and solutions
 | [1840-maximum-building-height](https://github.com/rcypankaj/Leetcode/tree/master/1840-maximum-building-height) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/rcypankaj/Leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/rcypankaj/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2029-stone-game-ix](https://github.com/rcypankaj/Leetcode/tree/master/2029-stone-game-ix) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/rcypankaj/Leetcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2698-find-the-punishment-number-of-an-integer](https://github.com/rcypankaj/Leetcode/tree/master/2698-find-the-punishment-number-of-an-integer) |
 | [2864-maximum-odd-binary-number](https://github.com/rcypankaj/Leetcode/tree/master/2864-maximum-odd-binary-number) |
@@ -637,6 +639,7 @@ This repository contains leetcode problems and solutions
 | [1727-largest-submatrix-with-rearrangements](https://github.com/rcypankaj/Leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1833-maximum-ice-cream-bars](https://github.com/rcypankaj/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/rcypankaj/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [2029-stone-game-ix](https://github.com/rcypankaj/Leetcode/tree/master/2029-stone-game-ix) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/rcypankaj/Leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2126-destroying-asteroids](https://github.com/rcypankaj/Leetcode/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/rcypankaj/Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -758,6 +761,7 @@ This repository contains leetcode problems and solutions
 | [0229-majority-element-ii](https://github.com/rcypankaj/Leetcode/tree/master/0229-majority-element-ii) |
 | [1189-maximum-number-of-balloons](https://github.com/rcypankaj/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/rcypankaj/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [2029-stone-game-ix](https://github.com/rcypankaj/Leetcode/tree/master/2029-stone-game-ix) |
 | [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/rcypankaj/Leetcode/tree/master/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [2833-furthest-point-from-origin](https://github.com/rcypankaj/Leetcode/tree/master/2833-furthest-point-from-origin) |
 | [2856-minimum-array-length-after-pair-removals](https://github.com/rcypankaj/Leetcode/tree/master/2856-minimum-array-length-after-pair-removals) |
@@ -907,14 +911,21 @@ This repository contains leetcode problems and solutions
 | [0486-predict-the-winner](https://github.com/rcypankaj/Leetcode/tree/master/0486-predict-the-winner) |
 | [1140-stone-game-ii](https://github.com/rcypankaj/Leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/rcypankaj/Leetcode/tree/master/1406-stone-game-iii) |
+| [2029-stone-game-ix](https://github.com/rcypankaj/Leetcode/tree/master/2029-stone-game-ix) |
 ## Minimax
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/rcypankaj/Leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/rcypankaj/Leetcode/tree/master/1406-stone-game-iii) |
+| [2029-stone-game-ix](https://github.com/rcypankaj/Leetcode/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/rcypankaj/Leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/rcypankaj/Leetcode/tree/master/1406-stone-game-iii) |
+| [2029-stone-game-ix](https://github.com/rcypankaj/Leetcode/tree/master/2029-stone-game-ix) |
+## Nim Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/rcypankaj/Leetcode/tree/master/2029-stone-game-ix) |
 <!---LeetCode Topics End-->
