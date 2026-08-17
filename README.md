@@ -55,6 +55,7 @@ This repository contains leetcode problems and solutions
 | [1406-stone-game-iii](https://github.com/rcypankaj/Leetcode/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rcypankaj/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/rcypankaj/Leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
+| [1563-stone-game-v](https://github.com/rcypankaj/Leetcode/tree/master/1563-stone-game-v) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/rcypankaj/Leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/rcypankaj/Leetcode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/rcypankaj/Leetcode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
@@ -307,6 +308,7 @@ This repository contains leetcode problems and solutions
 | [1140-stone-game-ii](https://github.com/rcypankaj/Leetcode/tree/master/1140-stone-game-ii) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/rcypankaj/Leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1406-stone-game-iii](https://github.com/rcypankaj/Leetcode/tree/master/1406-stone-game-iii) |
+| [1563-stone-game-v](https://github.com/rcypankaj/Leetcode/tree/master/1563-stone-game-v) |
 | [1622-fancy-sequence](https://github.com/rcypankaj/Leetcode/tree/master/1622-fancy-sequence) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/rcypankaj/Leetcode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1840-maximum-building-height](https://github.com/rcypankaj/Leetcode/tree/master/1840-maximum-building-height) |
@@ -358,6 +360,7 @@ This repository contains leetcode problems and solutions
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/rcypankaj/Leetcode/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1340-jump-game-v](https://github.com/rcypankaj/Leetcode/tree/master/1340-jump-game-v) |
 | [1406-stone-game-iii](https://github.com/rcypankaj/Leetcode/tree/master/1406-stone-game-iii) |
+| [1563-stone-game-v](https://github.com/rcypankaj/Leetcode/tree/master/1563-stone-game-v) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/rcypankaj/Leetcode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1871-jump-game-vii](https://github.com/rcypankaj/Leetcode/tree/master/1871-jump-game-vii) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/rcypankaj/Leetcode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
@@ -911,6 +914,7 @@ This repository contains leetcode problems and solutions
 | [0486-predict-the-winner](https://github.com/rcypankaj/Leetcode/tree/master/0486-predict-the-winner) |
 | [1140-stone-game-ii](https://github.com/rcypankaj/Leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/rcypankaj/Leetcode/tree/master/1406-stone-game-iii) |
+| [1563-stone-game-v](https://github.com/rcypankaj/Leetcode/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/rcypankaj/Leetcode/tree/master/2029-stone-game-ix) |
 ## Minimax
 |  |
