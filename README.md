@@ -113,6 +113,7 @@ This repository contains leetcode problems and solutions
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/rcypankaj/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/rcypankaj/Leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/rcypankaj/Leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/rcypankaj/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/rcypankaj/Leetcode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3093-longest-common-suffix-queries](https://github.com/rcypankaj/Leetcode/tree/master/3093-longest-common-suffix-queries) |
 | [3161-block-placement-queries](https://github.com/rcypankaj/Leetcode/tree/master/3161-block-placement-queries) |
@@ -729,6 +730,7 @@ This repository contains leetcode problems and solutions
 | [2766-relocate-marbles](https://github.com/rcypankaj/Leetcode/tree/master/2766-relocate-marbles) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/rcypankaj/Leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2974-minimum-number-game](https://github.com/rcypankaj/Leetcode/tree/master/2974-minimum-number-game) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/rcypankaj/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3612-process-string-with-special-operations-i](https://github.com/rcypankaj/Leetcode/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/rcypankaj/Leetcode/tree/master/3614-process-string-with-special-operations-ii) |
 | [3838-weighted-word-mapping](https://github.com/rcypankaj/Leetcode/tree/master/3838-weighted-word-mapping) |
