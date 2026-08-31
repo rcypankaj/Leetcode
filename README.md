@@ -2,7 +2,7 @@
 This repository contains leetcode problems and solutions
 
 <!---LeetCode Topics Start-->
-# LeetCode Top ics
+# LeetCode Topics
 ## Array
 |  |
 | ------- |
